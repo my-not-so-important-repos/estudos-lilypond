@@ -1,3 +1,7 @@
+%{
+Adaptado do template "choir hymn" de Frescobaldi
+%}
+
 \version "2.24.3"
 
 \header {
@@ -5,6 +9,7 @@
 }
 
 global = {
+  \numericTimeSignature
   \time 4/4
   \key c \major
   \tempo 4=120
@@ -12,7 +17,10 @@ global = {
 
 soprano = \relative c'' {
   \global
-  b c a e
+  % b4 c a e
+  d ees d c d ees d
+  
+  
 }
 
 %{
@@ -24,7 +32,7 @@ alto = \relative c' {
 
 tenor = \relative c' {
   \global
-  c4
+  c, 
   
 }
 
@@ -59,7 +67,7 @@ verseThree = \lyricmode {
   \new ChoirStaff <<
     \new Staff \with {
       midiInstrument = "choir aahs"
-      instrumentName = \markup \center-column { S A }
+      instrumentName = \markup \center-column { Spiritus Vaporama }
     } <<
       \new Voice = "soprano" { \voiceOne \soprano }
       %\new Voice = "alto" { \voiceTwo \alto }
@@ -79,13 +87,15 @@ verseThree = \lyricmode {
 
     \new Staff \with {
       midiInstrument = "choir aahs"
-      instrumentName = \markup \center-column { T B }
+      instrumentName = \markup \center-column { Bass PW2 }
     } <<
       \clef bass
       \new Voice = "tenor" { \voiceOne \tenor }
       \new Voice = "bass" { \voiceTwo \bass }
     >>
   >>
+
+    
   \layout { }
   \midi { }
 }
