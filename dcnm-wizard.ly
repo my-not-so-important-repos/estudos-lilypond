@@ -9,9 +9,9 @@
 
 \header {
   title = "Death Come Near Me"
-  instrument = "keyboard"
-  composer = "Draconian"
-  arranger = "HeitorJr"
+  instrument = "Synthesizer"
+  composer = "Composição: Draconian"
+  arranger = "Arranjo: HeitorJr"
 }
 
 \paper {
@@ -19,6 +19,7 @@
 }
 
 global = {
+  \numericTimeSignature
   \key c \major
   \time 4/4
 }
@@ -29,7 +30,7 @@ violin = \relative c'' {
 
 }
 
-flute = \relative c' {
+flute = \relative c'' {
   \global
   % Music follows here.
   d ees d c
@@ -39,11 +40,28 @@ flute = \relative c' {
   bes a g f
 }
 
+solinhoFinal = \relative c'' {
+  \global
+  { d ees c d }
+}
+
+
+% \relative c'' 
+% { c a f' e }
+  
 acousticBass = \relative c, {
   \global
   % Music follows here.
   d % ees d c d ees d
 }
+
+
+
+
+
+
+
+%-----------------------------------
 
 violinPart = \new Staff \with {
   instrumentName = "Violin"
@@ -57,11 +75,21 @@ acousticBassPart = \new Staff \with {
   instrumentName = "Acoustic bass"
 } { \clef "bass_8" \acousticBass }
 
+solinhoFinal = \new Staff {
+  \clef treble
+  \solinhoFinal
+}
+
+
+
+
+%-----------------------------------
 \score {
   <<
-    \violinPart
+    %\violinPart
     \flutePart
-    \acousticBassPart
+    \solinhoFinal
+    %\acousticBassPart
   >>
   \layout { }
 }
