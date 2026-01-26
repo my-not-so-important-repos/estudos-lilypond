@@ -1,11 +1,26 @@
 %{
-Adaptado do template "choir hymn" de Frescobaldi
+Escrito por HeitorJr usando Frescobaldi.
+criação    : 2026-01-25
+modificação: 2026-01-25
+
+Histórico de Mudanças
+=====================
+v1.1 - Layout A5 Landscape para melhor compatibilidade com e-readers.
+v1.0 - implantação.
+
 %}
 
 \version "2.24.3"
 
 \header {
   title = "Death Come Near Me"
+  instrument = "synthesizer"
+  composer = "Draconian"
+  arranger = "HeitorJr"
+}
+
+\paper {
+  #(set-paper-size "a5landscape")
 }
 
 global = {
@@ -17,10 +32,11 @@ global = {
 
 soprano = \relative c'' {
   \global
+
   % b4 c a e
-  d ees d c d ees d
-  
-  
+  d ees d c d ees d8 r
+  %\break
+  f ees d c bes
 }
 
 %{
