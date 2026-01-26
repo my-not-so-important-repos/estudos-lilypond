@@ -1,0 +1,67 @@
+%{
+               Titulo: Death come near me
+  Composição original: Draconian
+        arranjado por: HeitorJr
+%}
+
+\version "2.24.3"
+%\language "portugues"
+
+\header {
+  title = "Death Come Near Me"
+  instrument = "keyboard"
+  composer = "Draconian"
+  arranger = "HeitorJr"
+}
+
+\paper {
+  #(set-paper-size "a5landscape")
+}
+
+global = {
+  \key c \major
+  \time 4/4
+}
+
+violin = \relative c'' {
+  \global
+  % Music follows here.
+
+}
+
+flute = \relative c' {
+  \global
+  % Music follows here.
+  d ees d c
+  d ees d r
+  f ees d c
+  bes a bes c
+  bes a g f
+}
+
+acousticBass = \relative c, {
+  \global
+  % Music follows here.
+  d % ees d c d ees d
+}
+
+violinPart = \new Staff \with {
+  instrumentName = "Violin"
+} \violin
+
+flutePart = \new Staff \with {
+  instrumentName = "Flute"
+} \flute
+
+acousticBassPart = \new Staff \with {
+  instrumentName = "Acoustic bass"
+} { \clef "bass_8" \acousticBass }
+
+\score {
+  <<
+    \violinPart
+    \flutePart
+    \acousticBassPart
+  >>
+  \layout { }
+}
