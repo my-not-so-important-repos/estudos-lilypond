@@ -32,11 +32,12 @@ global = {
 
 soprano = \relative c'' {
   \global
+  \easyHeadsOn
 
   % b4 c a e
-  d ees d c d ees d8 r
-  %\break
-  f ees d c bes
+  d ees d c |
+  d ees d d |
+  f ees d c bes |
 }
 
 %{
@@ -49,13 +50,18 @@ alto = \relative c' {
 tenor = \relative c' {
   \global
   c, 
-  
+}
+
+chord_c = \relative c' {
+  \global
+  \easyHeadsOn
+  c e g
 }
 
 bass = \relative c {
   \global
-  f, g
-  
+  \easyHeadsOn
+
   a % all
   c % cows
   e % eat
@@ -77,6 +83,12 @@ verseThree = \lyricmode {
   \set stanza = "3."
   Rou!
 }
+
+
+
+
+
+
 
 
 \score {
@@ -109,9 +121,25 @@ verseThree = \lyricmode {
       \new Voice = "tenor" { \voiceOne \tenor }
       \new Voice = "bass" { \voiceTwo \bass }
     >>
+    
+    \new Staff \with {
+      midiInstrument = "acoustic grand"
+      instrumentName = \markup \center-column { mk2 }
+    } <<
+      \clef treble
+      \new Voice = "chord_c" { 
+        \voiceOne \chord_c
+        \chordmode { c1 g a g c }
+      }
+    >>
   >>
+
+
+
+
+
 
     
   \layout { }
-  \midi { }
+  %\midi { }
 }

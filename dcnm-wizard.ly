@@ -32,6 +32,7 @@ violin = \relative c'' {
 
 flute = \relative c'' {
   \global
+  \easyHeadsOn
   % Music follows here.
   d ees d c
   d ees d r
@@ -42,6 +43,7 @@ flute = \relative c'' {
 
 solinhoFinal = \relative c'' {
   \global
+  \easyHeadsOn
   { d ees c d }
 }
 
