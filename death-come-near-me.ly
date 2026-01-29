@@ -14,9 +14,10 @@ v1.0 - implantação.
 
 \header {
   title = "Death Come Near Me"
-  instrument = "synthesizer"
-  composer = "Draconian"
-  arranger = "HeitorJr"
+  % instrument = "synthesizer"
+  % composer = "Composer: Draconian"
+  % arranger = "Arranger: HeitorJr"
+  tagline = ##f
 }
 
 \paper {
@@ -27,17 +28,19 @@ global = {
   \numericTimeSignature
   \time 4/4
   \key c \major
-  \tempo 4=120
+  % \tempo 4=120
+  
+  \easyHeadsOn
 }
 
 soprano = \relative c'' {
   \global
-  \easyHeadsOn
 
   % b4 c a e
-  d ees d c |
-  d ees d d |
-  f ees d c bes |
+  d4 ees d c |
+  d4 ees d2 |
+  f4 ees d c |
+  bes4 a 
 }
 
 %{
@@ -54,8 +57,7 @@ tenor = \relative c' {
 
 chord_c = \relative c' {
   \global
-  \easyHeadsOn
-  c e g
+  <c e g>
 }
 
 bass = \relative c {
@@ -112,7 +114,8 @@ verseThree = \lyricmode {
       \override VerticalAxisGroup #'staff-affinity = #CENTER
     } \lyricsto "soprano" \verseThree
     %}
-
+    
+%{
     \new Staff \with {
       midiInstrument = "choir aahs"
       instrumentName = \markup \center-column { Bass PW2 }
@@ -132,12 +135,8 @@ verseThree = \lyricmode {
         \chordmode { c1 g a g c }
       }
     >>
+%%}
   >>
-
-
-
-
-
 
     
   \layout { }
