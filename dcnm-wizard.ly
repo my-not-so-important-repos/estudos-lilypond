@@ -35,10 +35,10 @@ flute = \relative c'' {
   \easyHeadsOn
   % Music follows here.
   d ees d c
-  d ees d r
+  d ees d2
   f ees d c
   bes a bes c
-  bes a g f
+  bes a g2 f
 }
 
 solinhoFinal = \relative c'' {
