@@ -34,22 +34,18 @@ right = \relative c' {
   e1 | \break
   
   f4 f f2 |
-  e4 e e4 |
+  e4 e e2 |
   g4 g f d |
   c1
   
   \bar "."
-  
 }
 
 \score {
-  \new PianoStaff \with {
-    instrumentName = "Synth lead"
-  } <<
-    \new Staff = "right" \with {
-      midiInstrument = "lead 1 (square)"
-    } \right
-  >>
+
+  \new Staff = "right"
+  \right
+
   \layout { }
   \midi { }
 }
