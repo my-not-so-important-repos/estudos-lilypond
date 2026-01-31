@@ -1,10 +1,10 @@
 # estudos-lilypond
 Minhas partituras.
 
-![](dcnm-wizard.png)
+![Death Come Near Me music score](dcnm-wizard.png)
 
 ---
 
-![](jingle-bells.svg)
+![Jingle Bells music score](jingle-bells/jingle-bells.svg)
 
 A imagem acima é um svg com fundo transparente. Não vai aparecer se estiver usando o tema escuro.
