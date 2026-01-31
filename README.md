@@ -1,7 +1,7 @@
 # estudos-lilypond
 Minhas partituras.
 
-![Death Come Near Me music score](dcnm-wizard.png)
+![Death Come Near Me music score](death-come-near-me/dcnm-wizard.png)
 
 ---
 
