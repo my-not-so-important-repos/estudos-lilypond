@@ -38,14 +38,24 @@ right = \relative c' {
   g4 g f d |
   c1
   
-  \bar "."
+  \bar "|."
+}
+
+acordes = \chordmode {
+  \global
+  c1 | s1 | s | s |
+  g | c | g | s
+  c1 s s s
+  g c g c
 }
 
 \score {
 
-  \new Staff = "right"
-  \right
+  \new PianoStaff <<
+    \new ChordNames { \acordes }
+    \new Staff = "right" \right
+  >>
 
   \layout { }
-  \midi { }
+  % \midi { }
 }
