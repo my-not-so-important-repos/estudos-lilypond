@@ -1,1 +1,1 @@
-![](ode-to-joy.png)
+![](ode-to-joy.svg)
