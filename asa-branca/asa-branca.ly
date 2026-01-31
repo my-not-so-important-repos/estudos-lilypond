@@ -45,10 +45,20 @@ right = \relative c' {
   r4 d4 d c |
   c1
   
+  \bar "|."
+}
+
+acordes = \chordmode {
+  \global
+  s1 | c1 | s1 | f |
+  s c s | s |
+  s | c:7 | s | f |
+  s g | s | c
 }
 
 \score {
   \new PianoStaff <<
+    \new ChordNames { \acordes }
     \new Staff = "right" \right
   >>
   \layout { }
