@@ -9,9 +9,10 @@
 
 \header {
   title = "Death Come Near Me"
-  instrument = "Synthesizer"
-  composer = "Composição: Draconian"
-  arranger = "Arranjo: HeitorJr"
+  % instrument = "Synthesizer"
+  composer = "Draconian"
+  % arranger = "Arranjo: HeitorJr"
+  tagline = ##f
 }
 
 \paper {
@@ -22,76 +23,30 @@ global = {
   \numericTimeSignature
   \key c \major
   \time 4/4
-}
-
-violin = \relative c'' {
-  \global
-  % Music follows here.
-
+  \easyHeadsOn
 }
 
 flute = \relative c'' {
   \global
-  \easyHeadsOn
   % Music follows here.
-  d ees d c
-  d ees d2
-  f ees d c
-  bes a bes c
-  bes a g2 f
+  d4 ees d c
+  d4 ees d2
+  f4 ees d c
+  bes4 a bes c
+  bes4 a g2 f4
 }
 
 solinhoFinal = \relative c'' {
   \global
-  \easyHeadsOn
-  { d ees c d }
+  { d ees c d2 }
 }
 
+% -----------------------------------
 
-% \relative c'' 
-% { c a f' e }
-  
-acousticBass = \relative c, {
-  \global
-  % Music follows here.
-  d % ees d c d ees d
-}
-
-
-
-
-
-
-
-%-----------------------------------
-
-violinPart = \new Staff \with {
-  instrumentName = "Violin"
-} \violin
-
-flutePart = \new Staff \with {
-  instrumentName = "Flute"
-} \flute
-
-acousticBassPart = \new Staff \with {
-  instrumentName = "Acoustic bass"
-} { \clef "bass_8" \acousticBass }
-
-solinhoFinal = \new Staff {
-  \clef treble
-  \solinhoFinal
-}
-
-
-
-
-%-----------------------------------
 \score {
   <<
-    %\violinPart
-    \flutePart
+    \flute
     \solinhoFinal
-    %\acousticBassPart
   >>
   \layout { }
 }
