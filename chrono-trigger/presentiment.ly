@@ -13,12 +13,12 @@
 
 global = {
   \key c \major
-  \time 4/4
+  % \time 4/4
 }
 
 right = \relative c' {
   \global
-  r \tuplet 3/2 { d' g a } d a g d 
+  r \tuplet 3/2 { d' g a } \tuplet 3/2 { d a g d  }
   % \bar "|."
 }
 
