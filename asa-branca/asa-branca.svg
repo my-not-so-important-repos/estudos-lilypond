@@ -1,566 +1,561 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="148.00mm" viewBox="0.0000 -0.0000 119.5016 84.2202">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="148.00mm" viewBox="0.0000 -0.0000 68.2866 48.1258">
 <style type="text/css">
 <![CDATA[
 tspan { white-space: pre; }
 ]]>
 </style>
-<g transform="translate(49.8663, 4.6319)">
-<text font-family="serif" font-weight="bold" font-size="3.4929" text-anchor="start" fill="currentColor">
-<tspan>Asa Branca</tspan>
+<g transform="translate(37.2715, 3.3223)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>Asa Branca - Luiz Gonzaga</tspan>
 </text>
 </g>
-<g transform="translate(99.5733, 8.1319)">
-<text font-family="serif" font-size="2.2000" text-anchor="start" fill="currentColor">
-<tspan>Luiz Gonzaga</tspan>
-</text>
+<g transform="translate(3.2517, 11.8066)">
+<rect x="18.5946" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 16.6302)">
-<rect x="27.1539" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(8.1294, 10.8066)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
 </g>
-<g transform="translate(14.2264, 15.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+<g transform="translate(8.1294, 9.8066)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
 </g>
-<g transform="translate(14.2264, 14.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+<g transform="translate(8.1294, 8.8066)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
 </g>
-<g transform="translate(14.2264, 13.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+<g transform="translate(8.1294, 7.8066)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
 </g>
-<g transform="translate(14.2264, 12.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+<g transform="translate(8.1294, 6.8066)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
 </g>
-<g transform="translate(14.2264, 11.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="99.5346" y2="0"/>
+<g transform="translate(53.0826, 8.8066)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(91.1488, 13.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(41.5168, 8.8066)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(68.9266, 13.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(29.4867, 8.8066)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(46.2401, 13.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(64.8984, 8.8066)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(113.6210, 13.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:24:5:6">
-<g transform="translate(80.7958, 15.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:25:5:6">
+<g transform="translate(47.6499, 10.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(82.1082, 13.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(48.9752, 8.8066)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:53:17:18">
-<g transform="translate(93.1466, 11.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:54:17:18">
+<g transform="translate(54.2638, 6.2446)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>F</tspan>
 </text>
 </g>
 </a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:26:2:3">
+<g transform="translate(54.2638, 10.3066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(44.0233, 8.8066)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:25:2:3">
-<g transform="translate(93.1466, 15.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(42.6980, 9.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(72.2367, 13.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(60.7910, 8.8066)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:24:2:3">
-<g transform="translate(70.9243, 14.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(104.5804, 13.6302)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:25:5:6">
-<g transform="translate(103.2680, 15.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:26:5:6">
+<g transform="translate(59.4657, 10.3066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(94.4589, 13.6302)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(55.5891, 8.8066)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(40.8374, 13.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(26.9817, 8.8066)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:22:8:9">
-<g transform="translate(39.5981, 16.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(34.4097, 13.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:22:5:6">
-<g transform="translate(33.1705, 16.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:23:8:9">
+<g transform="translate(25.7226, 11.3066)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(59.9217, 13.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(23.4319, 8.8066)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:23:5:6">
+<g transform="translate(22.1728, 11.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(37.4451, 8.8066)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:18:2:3">
+<g transform="translate(13.1294, 8.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M250 261c117 0 180 -102 180 -162c0 -40 -32 -74 -70 -74c-31 0 -76 25 -76 77c0 39 28 78 74 78c2 0 10 1 18 -1c-29 37 -76 60 -126 60c-106 0 -113 -73 -113 -185v-54v-54c0 -112 7 -185 113 -185c82 0 145 68 164 151c1 6 6 9 10 9c6 0 11 -4 11 -11
+c0 -23 -51 -171 -185 -171c-59 0 -250 19 -250 261c0 62 18 261 250 261z" fill="currentColor"/>
+</g>
+</a>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:17:2:3">
-<g transform="translate(19.2264, 13.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M250 262c116 0 176 -106 176 -163c0 -40 -30 -72 -67 -72c-31 0 -75 25 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12
-c0 -22 -50 -174 -183 -174c-59 0 -250 19 -250 263c0 62 18 262 250 262z" fill="currentColor"/>
-</g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:16:2:3">
-</a>
-<g transform="translate(15.0264, 14.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:22:2:3">
-<g transform="translate(22.9264, 13.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(49.5502, 13.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(8.9294, 9.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:23:2:3">
-<g transform="translate(48.2378, 15.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(16.8429, 8.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M367 0h-359c-4 0 -8 4 -8 8v140c0 4 4 8 8 8h359c4 0 8 -4 8 -8v-140c0 -4 -4 -8 -8 -8z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:53:7:8">
-<g transform="translate(48.2378, 11.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<g transform="translate(31.9932, 8.8066)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:24:2:3">
+<g transform="translate(30.6679, 10.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:54:7:8">
+<g transform="translate(30.6679, 6.2446)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:23:5:6">
-<g transform="translate(58.6093, 14.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:24:5:6">
+<g transform="translate(36.1198, 9.8066)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(5.6906, 28.6302)">
-<rect x="17.7466" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 23.0749)">
+<rect x="12.0170" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(66.2686, 25.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(38.9769, 20.0749)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(39.2100, 25.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(24.3312, 20.0749)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(93.1129, 25.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(53.4083, 20.0749)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(113.6210, 25.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(64.8984, 20.0749)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 27.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 22.0749)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 26.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 21.0749)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 25.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 20.0749)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 24.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 19.0749)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 23.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 18.0749)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(82.0437, 25.6302)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(48.0873, 20.0749)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:32:5:6">
+<g transform="translate(46.7620, 21.5749)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.6718, 20.0749)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:32:2:3">
+<g transform="translate(40.3465, 21.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.6917, 20.0749)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:31:5:6">
-<g transform="translate(80.7314, 27.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(32.3663, 21.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(69.8937, 25.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:31:2:3">
-<g transform="translate(68.5813, 26.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:33:2:3">
+<g transform="translate(55.7779, 22.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M215 114c-41 0 -71 -27 -71 -88c0 -104 91 -140 139 -140c41 0 70 27 70 88c0 104 -90 140 -138 140zM249 135c145 0 248 -64 248 -135s-103 -135 -248 -135s-249 64 -249 135s104 135 249 135z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(55.2351, 25.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(16.8543, 20.0749)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:30:5:6">
-<g transform="translate(53.9228, 26.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(15.5952, 23.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:32:2:3">
-<g transform="translate(96.4257, 27.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:30:2:3">
+<g transform="translate(9.0517, 20.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M367 0h-359c-4 0 -8 4 -8 8v140c0 4 4 8 8 8h359c4 0 8 -4 8 -8v-140c0 -4 -4 -8 -8 -8z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(25.0025, 25.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:29:5:6">
-<g transform="translate(23.7632, 28.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:29:2:3">
-<g transform="translate(11.4906, 25.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M365 0h-355c-6 0 -10 4 -10 10v136c0 6 4 10 10 10h355c6 0 10 -4 10 -10v-136c0 -6 -4 -10 -10 -10z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(4.7004, 22.5628)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<g transform="translate(2.2762, 17.0215)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<g transform="translate(6.4906, 26.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<g transform="translate(4.0517, 21.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:29:8:9">
-<g transform="translate(31.3795, 28.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(42.8351, 25.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:30:2:3">
-<g transform="translate(41.5227, 27.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:30:8:9">
+<g transform="translate(19.8561, 22.5749)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:54:4:5">
-<g transform="translate(41.5227, 23.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<g transform="translate(27.0262, 20.0749)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:31:2:3">
+<g transform="translate(25.7009, 22.0749)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:55:4:5">
+<g transform="translate(25.7009, 17.5128)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(32.6187, 25.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(21.1152, 20.0749)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 40.6302)">
-<rect x="86.0838" y="-0.1000" width="2.0660" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 34.3431)">
+<rect x="49.8875" y="-0.0859" width="2.0580" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 40.6302)">
-<rect x="18.4308" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 34.3431)">
+<rect x="12.5288" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 40.6302)">
-<rect x="11.7753" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 34.3431)">
+<rect x="8.8233" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 39.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 33.3431)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 38.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 32.3431)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 37.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 31.3431)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 36.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 30.3431)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 35.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 29.3431)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(61.4976, 37.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(36.3352, 31.3431)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(37.9728, 37.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(23.7323, 31.3431)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(90.0605, 37.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(52.2599, 31.3431)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(113.6210, 37.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:5:6">
-<g transform="translate(69.8571, 38.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(71.0963, 37.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:8:9">
-<g transform="translate(76.5127, 39.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(77.7519, 37.6302)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:10:11">
-<g transform="translate(83.1682, 39.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(84.4074, 37.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:2:3">
-<g transform="translate(63.5558, 37.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
-c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(104.1914, 37.6302)">
-<rect x="-0.0650" y="-2.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(64.8984, 31.3431)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:39:5:6">
-<g transform="translate(102.8791, 39.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(40.9073, 32.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(93.4310, 37.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(42.1664, 31.3431)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:39:8:9">
+<g transform="translate(44.6128, 32.8431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(45.8720, 31.3431)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:39:10:11">
+<g transform="translate(48.3184, 33.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.5775, 31.3431)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:39:2:3">
-<g transform="translate(92.1186, 40.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(37.5576, 31.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:55:16:17">
-<g transform="translate(92.1186, 35.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<g transform="translate(60.5253, 31.3431)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:40:5:6">
+<g transform="translate(59.1999, 32.8431)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(54.8076, 31.3431)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:40:2:3">
+<g transform="translate(53.4823, 34.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:56:16:17">
+<g transform="translate(53.4823, 28.7811)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>F</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(19.0311, 37.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(13.6606, 31.3431)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:36:10:11">
-<g transform="translate(31.1030, 40.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(6.4906, 38.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
-</g>
-<g transform="translate(25.6866, 37.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:36:8:9">
-<g transform="translate(24.4474, 40.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:37:10:11">
+<g transform="translate(19.8125, 33.8431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(4.7004, 34.5610)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+<g transform="translate(4.0517, 32.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<g transform="translate(17.3661, 31.3431)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:37:8:9">
+<g transform="translate(16.1070, 34.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(2.2762, 28.2880)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>9</tspan>
 </text>
 </g>
-<g transform="translate(32.3422, 37.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:36:5:6">
-<g transform="translate(17.7919, 40.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:36:2:3">
-<g transform="translate(11.4906, 37.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
-c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(52.1038, 37.6302)">
-<rect x="-0.0650" y="-2.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(21.0716, 31.3431)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:37:5:6">
-<g transform="translate(50.7914, 38.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(12.4015, 34.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(41.3433, 37.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
-</g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:37:2:3">
-<g transform="translate(40.0310, 39.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<g transform="translate(9.0517, 31.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:55:6:7">
-<g transform="translate(40.0310, 35.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<g transform="translate(31.9977, 31.3431)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:5:6">
+<g transform="translate(30.6724, 32.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(26.2801, 31.3431)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:38:2:3">
+<g transform="translate(24.9548, 33.3431)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:56:6:7">
+<g transform="translate(24.9548, 28.7811)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
-<g transform="translate(41.6698, 33.8649)">
-<text font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<g transform="translate(26.6132, 27.5918)">
+<text font-family="sans-serif" font-size="1.8499" text-anchor="start" fill="currentColor">
 <tspan>7</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(93.8705, 49.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(53.8350, 42.6114)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(39.3401, 49.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(24.3509, 42.6114)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(113.2110, 49.6302)">
-<rect x="0.0000" y="-2.0000" width="0.6000" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(64.6039, 42.6114)">
+<rect x="0.0000" y="-2.0000" width="0.4310" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(112.7210, 49.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(64.2519, 42.6114)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(63.9079, 49.6302)">
-<rect x="0.0000" y="-2.0000" width="0.1900" height="4.0000" ry="0.0000" fill="currentColor"/>
+<g transform="translate(37.3082, 42.6114)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 51.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 44.6114)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 50.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 43.6114)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 49.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 42.6114)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 48.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 41.6114)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 47.6302)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="0" x2="108.0705" y2="0"/>
+<g transform="translate(3.2517, 40.6114)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(5.6906, 52.6302)">
-<rect x="90.8382" y="-0.1000" width="2.9430" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 45.6114)">
+<rect x="52.3495" y="-0.0859" width="2.9831" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(5.6906, 52.6302)">
-<rect x="80.6779" y="-0.1000" width="1.9563" height="0.2000" ry="0.1000" fill="currentColor"/>
+<g transform="translate(3.2517, 45.6114)">
+<rect x="46.2181" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(80.9364, 49.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(47.1952, 42.6114)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:8:9">
-<g transform="translate(79.6972, 52.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(73.9390, 49.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:5:6">
-<g transform="translate(72.6998, 52.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:46:8:9">
+<g transform="translate(45.9361, 45.1114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:2:3">
-<g transform="translate(66.0567, 49.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
-c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+<g transform="translate(43.3351, 42.6114)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:10:11">
-<g transform="translate(86.6946, 52.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:46:5:6">
+<g transform="translate(42.0760, 45.1114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:46:2:3">
-<g transform="translate(97.0192, 52.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M213 112c-45 0 -69 -34 -69 -88c0 -102 89 -136 134 -136s69 34 69 88c0 102 -89 136 -134 136zM245 136c144 0 246 -65 246 -136s-102 -136 -246 -136s-245 65 -245 136s101 136 245 136z" fill="currentColor"/>
+<g transform="translate(38.5716, 42.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:56:12:13">
-<g transform="translate(97.0192, 47.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:46:10:11">
+<g transform="translate(49.7963, 45.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:47:2:3">
+<g transform="translate(56.0985, 45.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M215 114c-41 0 -71 -27 -71 -88c0 -104 91 -140 139 -140c41 0 70 27 70 88c0 104 -90 140 -138 140zM249 135c145 0 248 -64 248 -135s-103 -135 -248 -135s-249 64 -249 135s104 135 249 135z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:57:12:13">
+<g transform="translate(56.0985, 40.0493)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(87.9338, 49.6302)">
-<rect x="-0.0650" y="-0.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(51.0554, 42.6114)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(53.8950, 49.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(32.6712, 42.6114)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:43:8:9">
-<g transform="translate(25.1311, 51.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(19.3729, 49.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:43:5:6">
-<g transform="translate(18.1337, 51.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:8:9">
+<g transform="translate(16.4163, 44.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:43:2:3">
-<g transform="translate(11.4906, 49.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M-6 78c0 59 124 83 124 182c0 24 -8 49 -25 69l-35 42c-3 3 -4 7 -4 10c0 9 9 15 17 15c4 0 8 -1 11 -5l151 -180c7 -9 10 -17 10 -25c0 -59 -124 -83 -124 -182c0 -24 7 -49 24 -69l84 -99c3 -3 4 -7 4 -10c0 -9 -8 -16 -16 -16s-45 44 -109 44c-16 0 -53 0 -53 -67
-c0 -35 11 -74 28 -94c7 -8 -5 -19 -12 -11c-45 54 -92 148 -92 202c0 41 27 42 40 42c33 0 78 -13 119 -31l-132 158c-7 9 -10 17 -10 25z" fill="currentColor"/>
+<g transform="translate(13.8152, 42.6114)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:5:6">
+<g transform="translate(12.5561, 44.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(26.3703, 49.6302)">
-<rect x="-0.0650" y="-1.5000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:2:3">
+<g transform="translate(9.0517, 42.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
 </g>
-<g transform="translate(3.7102, 46.5628)">
-<text font-family="serif" font-size="1.7459" text-anchor="start" fill="currentColor">
+</a>
+<g transform="translate(17.6754, 42.6114)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(1.3007, 39.5580)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>13</tspan>
 </text>
 </g>
-<g transform="translate(6.4906, 50.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 90 113 164c0 90 -66 179 -173 190c19 -89 48 -242 60 -354zM74 28c0 -145 141 -247 264 -247
-c1 0 47 0 82 6c-7 64 -29 203 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-15 0 -126 62 -126 187c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM250 553c-29 96 -52 170 -52 346
-c0 115 55 224 149 292c6 5 14 5 20 0c68 -80 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c2 0 7 1 13 1c155 0 256 -128 256 -261c0 -113 -74 -212 -180 -246c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43
-c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-5 -1 -44 -8 -89 -8c-193 0 -333 180 -333 374c0 177 131 306 248 441zM428 916c0 34 1 66 -20 129c-99 -48 -162 -149 -162 -259c0 -52 12 -115 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<g transform="translate(4.0517, 43.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<g transform="translate(42.8012, 49.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.2410" ry="0.0400" fill="currentColor"/>
+<g transform="translate(26.9396, 42.6114)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:2:3">
-<g transform="translate(41.4888, 52.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:2:3">
+<g transform="translate(25.6143, 45.1114)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:56:4:5">
-<g transform="translate(41.4888, 47.0541)">
-<text font-family="sans-serif" font-size="2.6165" text-anchor="start" fill="currentColor">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:57:4:5">
+<g transform="translate(25.6143, 40.0493)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(33.3676, 49.6302)">
-<rect x="-0.0650" y="-1.0000" width="0.1300" height="3.3139" ry="0.0400" fill="currentColor"/>
+<g transform="translate(21.5355, 42.6114)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:43:10:11">
-<g transform="translate(32.1284, 52.1302)">
-<path transform="scale(0.0040, -0.0040)" d="M218 136c66 0 108 -36 108 -89c0 -89 -113 -183 -218 -183c-66 0 -108 36 -108 89c0 89 113 183 218 183z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:10:11">
+<g transform="translate(20.2764, 45.1114)">
+<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:44:5:6">
-<g transform="translate(52.5826, 51.6302)">
-<path transform="scale(0.0040, -0.0040)" d="M314 65c0 23 -19 41 -42 41c-39 0 -204 -110 -231 -143c-7 -8 -10 -18 -10 -28c0 -23 19 -41 42 -41c39 0 203 110 230 143c7 8 11 18 11 28zM262 136c41 0 82 -14 82 -71c0 -26 -16 -112 -74 -151c-25 -17 -87 -50 -187 -50c-41 0 -83 14 -83 71c0 26 16 112 74 151
-c25 17 88 50 188 50z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/asa-branca/asa-branca.ly:45:5:6">
+<g transform="translate(31.3458, 44.6114)">
+<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
+c19 13 85 52 189 52z" fill="currentColor"/>
 </g>
 </a>
 </svg>
