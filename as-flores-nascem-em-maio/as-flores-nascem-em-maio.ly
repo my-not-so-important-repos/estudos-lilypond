@@ -1,11 +1,12 @@
 \version "2.24.3"
 
 \header {
-  title = "As flores nascem em maio"
+  composer = "As flores nascem em maio"
   enteredby = "HeitorJr"
   tagline = ##f
 }
 
+#(set-global-staff-size 35)
 \paper {
   #(set-paper-size "a5landscape")
 }

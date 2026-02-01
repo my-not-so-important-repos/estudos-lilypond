@@ -2,15 +2,16 @@
 %\language "portugues"
 
 \header {
-  title = "Ode a Alegria"
-  composer = "Beethoven"
+  % title = "Ode a Alegria"
+  composer = "Ode a Alegria - Beethoven"
   enteredby = "HeitorJr"
   % Remove default LilyPond tagline
   tagline = ##f
 }
 
+#(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5")
+  #(set-paper-size "a5landscape")
 }
 
 \layout {

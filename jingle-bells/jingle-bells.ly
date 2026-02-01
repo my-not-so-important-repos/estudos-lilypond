@@ -1,9 +1,11 @@
 \version "2.24.3"
 
 \header {
-  title = "Jingle Bells"
+  composer = "Jingle Bells"
   tagline = ##f
 }
+
+#(set-global-staff-size 35)
 
 \paper {
   #(set-paper-size "a5landscape")
@@ -57,5 +59,5 @@ acordes = \chordmode {
   >>
 
   \layout { }
-  % \midi { }
+  \midi { }
 }

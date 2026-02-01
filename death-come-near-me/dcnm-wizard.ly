@@ -8,13 +8,14 @@
 %\language "portugues"
 
 \header {
-  title = "Death Come Near Me"
+  % title = "Death Come Near Me"
   % instrument = "Synthesizer"
-  composer = "Draconian"
+  composer = "Death Come Near Me - Draconian"
   % arranger = "Arranjo: HeitorJr"
   tagline = ##f
 }
 
+#(set-global-staff-size 40)
 \paper {
   #(set-paper-size "a5landscape")
 }
@@ -33,6 +34,7 @@ flute = \relative c'' {
   d4 ees d2
   f4 ees d c
   bes4 a bes c
+  \break
   bes4 a g2 f4
 }
 

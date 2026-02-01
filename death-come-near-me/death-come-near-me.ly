@@ -5,6 +5,7 @@ modificação: 2026-01-25
 
 Histórico de Mudanças
 =====================
+v1.2 - Aumento no tmanho da fonte
 v1.1 - Layout A5 Landscape para melhor compatibilidade com e-readers.
 v1.0 - implantação.
 
@@ -20,6 +21,7 @@ v1.0 - implantação.
   tagline = ##f
 }
 
+#(set-global-staff-size 35)
 \paper {
   #(set-paper-size "a5landscape")
 }

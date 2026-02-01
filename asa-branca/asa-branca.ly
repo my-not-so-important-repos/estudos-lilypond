@@ -1,13 +1,14 @@
 \version "2.24.3"
 
 \header {
-  title = "Asa Branca"
+  %title = "Asa Branca"
   % Remove default LilyPond tagline
-  composer = "Luiz Gonzaga"
+  composer = "Asa Branca - Luiz Gonzaga"
   enteredby = "HeitorJr"
   tagline = ##f
 }
 
+#(set-global-staff-size 35)
 \paper {
   #(set-paper-size "a5landscape")
 }
@@ -62,4 +63,5 @@ acordes = \chordmode {
     \new Staff = "right" \right
   >>
   \layout { }
+  \midi { }
 }
