@@ -1,0 +1,39 @@
+
+
+def para_cada_arquivo_ly
+  files = Dir['*.ly']
+  files.each do |filename|
+    if block_given?
+      yield(filename)
+    else
+      raise NotImplementedError
+    end
+  end
+end
+
+
+
+task :render_all do
+  # files = Dir.glob('*.ly')
+  # files.each do |f|
+  para_cada_arquivo_ly do |f|
+    cmd = "lilypond  --png --pdf '#{f}'"
+    system(cmd)
+    system("lilypond --svg #{f}")
+  end
+  # end
+end
+
+task :clear do
+  #files = Dir['*.ly']
+  #files.each 
+  para_cada_arquivo_ly do |f|
+    basename = File.basename(f, '.ly')
+    FileUtils.rm("#{basename}.png")
+    FileUtils.rm("#{basename}.svg")
+    FileUtils.rm("#{basename}.pdf")
+  end
+  #File.remove()
+end
+
+task :default => [:render_all]
