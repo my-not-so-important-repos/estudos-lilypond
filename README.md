@@ -6,3 +6,5 @@ Minhas partituras.
 - [Death Come Near Me](death-come-near-me)
 - [Jingle Bells](jingle-bells)
 - [Ode to Joy](ode-to-joy)
+- [Chrono Trigger](chrono-trigger)
+
