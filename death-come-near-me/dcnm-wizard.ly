@@ -8,9 +8,7 @@
 %\language "portugues"
 
 \header {
-  % title = "Death Come Near Me"
-  % instrument = "Synthesizer"
-  composer = "Death Come Near Me - Draconian"
+  subsubtitle = "Death Come Near Me - Draconian"
   % arranger = "Arranjo: HeitorJr"
   tagline = ##f
 }
@@ -23,32 +21,44 @@
 global = {
   \numericTimeSignature
   \key c \major
-  \time 4/4
+  %\time 4/4
   \easyHeadsOn
 }
 
-flute = \relative c'' {
-  \global
-  % Music follows here.
-  d4 ees d c
-  d4 ees d2
-  f4 ees d c
-  bes4 a bes c
-  \break
-  bes4 a g2 f4
+
+
+intervalo = {
+  s s s s
 }
 
+
+intro = \relative c'' {
+  d4 ees d c  d4 ees d1
+  
+  f4 ees d c
+  bes4 a bes c
+  bes4 a g f4 ees2
+}
+
+
 solinhoFinal = \relative c'' {
+  d4 ees c d2 c bes 
+  \intervalo
+}
+
+
+tudo = {
   \global
-  { d ees c d2 }
+  \intro
+  \intervalo
+  \solinhoFinal
 }
 
 % -----------------------------------
 
 \score {
   <<
-    \flute
-    \solinhoFinal
+    \tudo
   >>
   \layout { }
 }

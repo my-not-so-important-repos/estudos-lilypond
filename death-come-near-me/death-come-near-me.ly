@@ -14,7 +14,7 @@ v1.0 - implantação.
 \version "2.24.3"
 
 \header {
-  title = "Death Come Near Me"
+  subsubtitle = "Death Come Near Me"
   % instrument = "synthesizer"
   % composer = "Composer: Draconian"
   % arranger = "Arranger: HeitorJr"
