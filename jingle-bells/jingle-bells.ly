@@ -28,7 +28,7 @@ right = \relative c' {
   f4 f f2 |
   e4 e e2 |
   d4 e d e |
-  d2 f2 | \break
+  d2 g2 | \break
   
   e4 e e2 |
   e4 e e2 |
