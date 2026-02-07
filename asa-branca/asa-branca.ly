@@ -3,14 +3,14 @@
 \header {
   %title = "Asa Branca"
   % Remove default LilyPond tagline
-  composer = "Asa Branca - Luiz Gonzaga"
+  subsubtitle = "Asa Branca - Luiz Gonzaga"
   enteredby = "HeitorJr"
   tagline = ##f
 }
 
 #(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5landscape")
+  #(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -58,11 +58,32 @@ acordes = \chordmode {
   s g | s | c
 }
 
+
+% {
 \score {
   \new PianoStaff <<
-    \new ChordNames { \acordes }
+    %\new ChordNames { \acordes }
     \new Staff = "right" \right
+    
   >>
   \layout { }
-  \midi { }
+  \midi { \tempo 4=120 }
 }
+%}
+
+%{ Melhor compatíbilidade com piano-booster
+\score {
+  \new PianoStaff <<
+    \new Staff = "right" \with {
+      midiInstrument = "lead 1 (square)"
+    } \right
+    \new Staff = "left" \with {
+      midiInstrument = "lead 1 (square)"
+    } { \clef bass \acordes }
+  >>
+  \layout { }
+  \midi {
+    \tempo 4=90
+  }
+}
+% %}
