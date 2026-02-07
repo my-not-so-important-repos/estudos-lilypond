@@ -8,7 +8,7 @@
 
 #(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5landscape")
+  #(set-paper-size "a5" 'landscape)
 }
 
 global = {
@@ -20,6 +20,7 @@ global = {
 right = \relative c'' {
   \global
   % Music follows here.
+  %r1
   g'8 f e d   f e d c |
   c8  d  e \tieNeutral  d   d2 
   
@@ -31,6 +32,7 @@ left = \relative c' {
   \clef treble
   % Music follows here.
   \chordmode {
+    %r1
     c2 f, bes, s |
     s4 <g c' f'>2 <g b g'>2 
     
@@ -40,10 +42,10 @@ left = \relative c' {
 \score {
   \new PianoStaff <<
     \new Staff = "right" \with {
-      midiInstrument = "lead 1 (square)"
+      %midiInstrument = "lead 1 (square)"
     } \right
     \new Staff = "left" \with {
-      midiInstrument = "lead 1 (square)"
+      %midiInstrument = "lead 1 (square)"
     } { \clef bass \left }
   >>
   \layout { }
