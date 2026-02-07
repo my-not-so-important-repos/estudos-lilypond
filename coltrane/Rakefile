@@ -1,0 +1,13 @@
+require 'erb'
+
+task :default do
+  filename = 'coltrane-random.ly.erb'
+  raw = File.read(filename)
+  template = ERB.new(raw)
+  result = template.result
+
+  output_filename = 'coltrane-random.ly'
+  File.write(output_filename, result)
+  system("lilypond #{output_filename}")
+end
+
