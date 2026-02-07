@@ -10,8 +10,8 @@
 
 #(set-global-staff-size 30)
 \paper {
-  #(set-paper-size "a5landscape" )
-  %#(set-paper-size "a5" 'landscape )
+  %#(set-paper-size "a5landscape" )
+  #(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -74,6 +74,7 @@ voice_bass =  {
     \break
   }
   a1
+  \bar "|."
 }
 
 \score{
