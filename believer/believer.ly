@@ -8,10 +8,10 @@
   subtitle = "Believer - Imagine Dragons"
 }
 
-#(set-global-staff-size 35)
+#(set-global-staff-size 30)
 \paper {
   #(set-paper-size "a5landscape" )
-                  %"a5" 'landscape )
+  %#(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -62,11 +62,30 @@ voicedefault =  {
 }
 
 
+
+voice_bass =  {
+  %\set Score.measureBarType = ""
+  \global
+  \clef bass
+  \repeat volta 2 {
+    a1 | a | f | e
+    \break
+    a1 | a | f | e
+    \break
+  }
+  a1
+}
+
 \score{
   <<
     \context Staff="default" {
       \voicedefault
     }
+    
+    \context Staff="bass" {
+      \voice_bass
+    }
+    
   >>
   
   \layout {}
