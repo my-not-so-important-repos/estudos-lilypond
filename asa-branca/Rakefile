@@ -14,14 +14,10 @@ end
 
 
 task :render_all do
-  # files = Dir.glob('*.ly')
-  # files.each do |f|
   para_cada_arquivo_ly do |f|
-    cmd = "lilypond  --png --pdf '#{f}'"
-    system(cmd)
+    system "lilypond  --png --pdf '#{f}'"
     system("lilypond --svg #{f}")
   end
-  # end
 end
 
 task :clear do
