@@ -16,6 +16,7 @@ task :clean do
   erase_if_exists("#{basename}.pdf")
   erase_if_exists("#{basename}.png")
   erase_if_exists("#{basename}.svg")
+  erase_if_exists("#{basename}.ly")
 end
 
 task :build do
