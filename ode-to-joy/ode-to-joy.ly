@@ -60,4 +60,7 @@ acordes = \chordmode {
     \new Staff = "right" \right
   >>
   \layout { }
+  \midi {
+    \tempo 4=120
+  }
 }
