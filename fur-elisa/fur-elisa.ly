@@ -27,20 +27,26 @@ Si = marrom
    (list
     (cons (ly:make-pitch 0 0 NATURAL) (x11-color 'red))
     (cons (ly:make-pitch 0 0 SHARP)   (x11-color 'red))
-    (cons (ly:make-pitch 0 1 FLAT)    (x11-color 'orange))
-    (cons (ly:make-pitch 0 2 NATURAL) (x11-color 'yellow))
-    (cons (ly:make-pitch 0 2 SHARP)   (x11-color 'yellow))
-    (cons (ly:make-pitch 0 3 FLAT)    (x11-color 'green))
-    (cons (ly:make-pitch 0 3 NATURAL) (x11-color 'green))
-    (cons (ly:make-pitch 0 4 SHARP)   (x11-color 'red))
-    (cons (ly:make-pitch 0 5 NATURAL) (x11-color 'blue))
-    (cons (ly:make-pitch 0 5 FLAT)    (x11-color 'blue))
-    (cons (ly:make-pitch 0 6 SHARP)   (x11-color 'magenta))
+
+    (cons (ly:make-pitch 0 1 FLAT)    (x11-color 'green))
     (cons (ly:make-pitch 0 1 NATURAL) (x11-color 'orange))
+
+    (cons (ly:make-pitch 0 2 NATURAL) (x11-color 'blue))
+    (cons (ly:make-pitch 0 2 SHARP)   (x11-color 'blue))
+
+    (cons (ly:make-pitch 0 3 FLAT)    (x11-color 'gray))
+    (cons (ly:make-pitch 0 3 NATURAL) (x11-color 'gray))
     (cons (ly:make-pitch 0 3 SHARP)   (x11-color 'blue))
-    (cons (ly:make-pitch 0 4 FLAT)    (x11-color 'blue))
-    (cons (ly:make-pitch 0 5 SHARP)   (x11-color 'blue))
-    (cons (ly:make-pitch 0 6 FLAT)    (x11-color 'magenta))))
+
+    (cons (ly:make-pitch 0 4 FLAT)    (x11-color 'yellow))
+    (cons (ly:make-pitch 0 4 SHARP)   (x11-color 'yellow))
+
+    (cons (ly:make-pitch 0 5 FLAT)    (x11-color 'orange))
+    (cons (ly:make-pitch 0 5 NATURAL) (x11-color 'orange))
+    (cons (ly:make-pitch 0 5 SHARP)   (x11-color 'orange))
+
+    (cons (ly:make-pitch 0 6 SHARP)   (x11-color 'brown))
+    (cons (ly:make-pitch 0 6 FLAT)    (x11-color 'brown))))
 
 % Compare pitch and alteration (not octave).
 #(define (pitch-equals? p1 p2)
