@@ -48,6 +48,7 @@ voicedefault =  {
   \global
 
   \repeat volta 2 {
+    \bar ".|:"
     \tananaaam_finger
     \descida_finger
     \tananaaam_finger
@@ -68,6 +69,7 @@ voice_bass =  {
   \global
   \clef bass
   \repeat volta 2 {
+    \bar ".|:"
     a1 | a | f | e
     \break
     a1 | a | f | e
@@ -86,9 +88,8 @@ voice_bass =  {
     \context Staff="bass" {
       \voice_bass
     }
-    
   >>
-  
+
   \layout {}
   \midi {}
 }
