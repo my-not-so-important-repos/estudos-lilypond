@@ -6,7 +6,7 @@ require 'erb'
 basename = 'coltrane-random'
 
 
-task :clean do
+task :clear do
   erase_if_exists("#{basename}.midi")
   erase_if_exists("#{basename}.pdf")
   erase_if_exists("#{basename}.png")

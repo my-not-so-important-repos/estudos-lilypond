@@ -14,13 +14,13 @@
 }
 
 %{
-Dó = Vermelho
-Ré = verde
-Mi = azul
-Fá = cinza
+Dó  = Vermelho
+Ré  = verde
+Mi  = azul
+Fá  = cinza
 Sol = amarelo
-Lá = laranja
-Si = marrom
+Lá  = laranja
+Si  = marrom
 %}
 
 #(define color-mapping
@@ -29,14 +29,14 @@ Si = marrom
     (cons (ly:make-pitch 0 0 SHARP)   (x11-color 'red))
 
     (cons (ly:make-pitch 0 1 FLAT)    (x11-color 'green))
-    (cons (ly:make-pitch 0 1 NATURAL) (x11-color 'orange))
+    (cons (ly:make-pitch 0 1 NATURAL) (x11-color 'green))
 
     (cons (ly:make-pitch 0 2 NATURAL) (x11-color 'blue))
     (cons (ly:make-pitch 0 2 SHARP)   (x11-color 'blue))
 
     (cons (ly:make-pitch 0 3 FLAT)    (x11-color 'gray))
     (cons (ly:make-pitch 0 3 NATURAL) (x11-color 'gray))
-    (cons (ly:make-pitch 0 3 SHARP)   (x11-color 'blue))
+    (cons (ly:make-pitch 0 3 SHARP)   (x11-color 'gray))
 
     (cons (ly:make-pitch 0 4 FLAT)    (x11-color 'yellow))
     (cons (ly:make-pitch 0 4 SHARP)   (x11-color 'yellow))

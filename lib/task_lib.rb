@@ -1,6 +1,7 @@
 
-def para_cada_arquivo_ly
-  files = Dir['*.ly']
+
+def para_cada_arquivo (glob = '*.ly')
+  files = Dir[glob]
   files.each do |filename|
     if block_given?
       yield(filename)
