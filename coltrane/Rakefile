@@ -1,15 +1,10 @@
 #! rake -f
 
+require_relative '../lib/task_lib'
 require 'erb'
 
 basename = 'coltrane-random'
 
-def erase_if_exists(filename)
-  if File.exist?(filename)
-    puts "Erasing #{filename}"
-    FileUtils.rm(filename)
-  end
-end
 
 task :clean do
   erase_if_exists("#{basename}.midi")
@@ -21,13 +16,15 @@ end
 
 task :build do
   filename = "#{basename}.ly.erb"
-  raw = File.read(filename)
-  template = ERB.new(raw)
-  result = template.result
 
-  output_filename = "#{basename}.ly"
-  File.write(output_filename, result)
-  system("lilypond #{output_filename}")
+    raw = File.read(filename)
+    template = ERB.new(raw)
+    result = template.result
+
+    output_filename = "#{basename}.ly"
+    File.write(output_filename, result)
+    system("lilypond #{output_filename}")
+
 end
 
 task :default => [:build]

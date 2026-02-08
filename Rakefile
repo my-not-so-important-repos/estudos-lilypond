@@ -1,11 +1,11 @@
 
-require_relative '../lib/task_lib'
+require_relative 'lib/task_lib'
 
 
 task :render_all do
   para_cada_arquivo_ly do |f|
-    system "lilypond '#{f}'"
-    system("lilypond --png #{f}")
+    # system "lilypond '#{f}'"
+    system("lilypond --png --pdf #{f}")
     system("lilypond --svg #{f}")
   end
 end
