@@ -1,14 +1,23 @@
 
 require_relative 'lib/task_lib'
 
+task :abc do
+  para_cada_arquivo('*.abc') do |filename|
+    system "abc2ly #{filename}"
+  end
+end
 
-task :render_all do
+
+
+task :ly do
   para_cada_arquivo_ly do |f|
     # system "lilypond '#{f}'"
     system("lilypond --png --pdf #{f}")
     system("lilypond --svg #{f}")
   end
 end
+
+task :all => [:abc, :ly]
 
 task :clear do
   #files = Dir['*.ly']
@@ -23,4 +32,4 @@ task :clear do
   #File.remove()
 end
 
-task :default => [:render_all]
+task :default => [:all]
