@@ -10,8 +10,7 @@ end
 
 
 task :ly do
-  para_cada_arquivo_ly do |f|
-    # system "lilypond '#{f}'"
+  para_cada_arquivo('*.ly') do |f|
     system("lilypond --png --pdf #{f}")
     system("lilypond --svg #{f}")
   end
@@ -22,7 +21,7 @@ task :all => [:abc, :ly]
 task :clear do
   #files = Dir['*.ly']
   #files.each 
-  para_cada_arquivo_ly do |f|
+  para_cada_arquivo('*.ly') do |f|
     basename = File.basename(f, '.ly')
     erase_if_exists("#{basename}.png")
     erase_if_exists("#{basename}.svg")
