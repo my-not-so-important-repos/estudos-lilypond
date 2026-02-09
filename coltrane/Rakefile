@@ -1,0 +1,31 @@
+#! rake -f
+
+require_relative '../lib/task_lib'
+require 'erb'
+
+basename = 'coltrane-random'
+
+
+task :clear do
+  erase_if_exists("#{basename}.midi")
+  erase_if_exists("#{basename}.pdf")
+  erase_if_exists("#{basename}.png")
+  erase_if_exists("#{basename}.svg")
+  erase_if_exists("#{basename}.ly")
+end
+
+task :build do
+  filename = "#{basename}.ly.erb"
+
+    raw = File.read(filename)
+    template = ERB.new(raw)
+    result = template.result
+
+    output_filename = "#{basename}.ly"
+    File.write(output_filename, result)
+    system("lilypond #{output_filename}")
+
+end
+
+task :default => [:build]
+

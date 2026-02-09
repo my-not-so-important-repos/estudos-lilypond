@@ -15,7 +15,7 @@ global = {
   \key c \major
   \numericTimeSignature
   \time 4/4
- % \tempo 4=100
+  \tempo 4=100
 }
 
 right = \relative c' {
@@ -62,5 +62,5 @@ acordes = \chordmode {
   >>
 
   \layout { }
-  % \midi { }
+  \midi { }
 }

@@ -1,3 +1,18 @@
+\version "2.24.3"
+
+\header {
+  subsubtitle = "Death Come Near Me"
+  % Remove default LilyPond tagline
+  tagline = ##f
+}
+
+\paper {
+  #(set-paper-size "a5landscape")
+}
+
+
+% ----------------------------------------
+
 \version "2.7.40"
 
 \header {
@@ -5,13 +20,12 @@
   footnotes = ""
   tagline = ##f
   %"Lily was here 2.24.3 -- automatically converted from ABC"
-  subtitle = "Believer - Imagine Dragons"
 }
 
 #(set-global-staff-size 30)
 \paper {
-  %#(set-paper-size "a5landscape" )
-  #(set-paper-size "a5" 'landscape )
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -48,18 +62,9 @@ voicedefault =  {
   \global
 
   \repeat volta 2 {
-    \bar ".|:"
-    \tananaaam_finger
-    \descida_finger
-    \tananaaam_finger
-    \descida
-    \break
-
-    a'4 c'' a''2-5 | e''4.-5 e''8 d'' c'' a' g' |
-    a'4 c'' a''2 |
-    gis''1
+    \bar ".|:" 
+    d'' es'' c''
   }
-  a''1
 }
 
 
@@ -68,12 +73,10 @@ voice_bass =  {
   %\set Score.measureBarType = ""
   \global
   \clef bass
+  
   \repeat volta 2 {
-    \bar ".|:"
-    a1 | a | f | e
-    \break
-    a1 | a | f | e
-    \break
+    \bar ".|:" 
+    a1 | a 
   }
   a1
   \bar "|."
@@ -88,8 +91,9 @@ voice_bass =  {
     \context Staff="bass" {
       \voice_bass
     }
+    
   >>
-
+  
   \layout {}
   \midi {}
 }
