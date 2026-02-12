@@ -1,6 +1,12 @@
 
 require_relative 'lib/task_lib'
 
+task :synth do
+  para_cada_arquivo('*.midi') do |filename|
+    send_to_my_microkorg2(filename)
+  end
+end
+
 task :abc do
   para_cada_arquivo('*.abc') do |filename|
     system "abc2ly #{filename}"

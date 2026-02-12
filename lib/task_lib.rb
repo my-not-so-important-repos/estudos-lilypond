@@ -1,5 +1,11 @@
 
 
+def send_to_my_microkorg2 (midi)
+  system("aplaymidi --port 20 #{midi}")
+end
+
+
+
 def para_cada_arquivo (glob = '*.ly')
   files = Dir[glob]
   files.each do |filename|
