@@ -5,6 +5,11 @@ require 'erb'
 
 basename = 'coltrane-random'
 
+task :synth do
+  para_cada_arquivo('*.midi') do |fn|
+    send_to_my_microkorg2(fn)
+  end
+end
 
 task :clear do
   erase_if_exists("#{basename}.midi")
