@@ -31,3 +31,127 @@ Precisa investigar como selecionar a origem, no caso de existir mais de 1.
     arecord -f cd -t wav output.wav
 
 
+
+Here are the most common Linux commands to record audio from your audio interface:
+
+## 1. **Using `arecord` (ALSA - Easiest)**
+The simplest method:
+
+```bash
+arecord -f cd -t wav output.wav
+```
+
+Key options:
+- `-f cd` - CD quality (16-bit, 44.1kHz stereo)
+- `-t wav` - WAV format
+- `output.wav` - output filename
+
+List available recording devices:
+```bash
+arecord -l
+```
+
+Record from a specific device:
+```bash
+arecord -D hw:1,0 -f cd -t wav output.wav
+```
+
+Stop recording with `Ctrl+C`.
+
+## 2. **Using `ffmpeg` (More flexible)**
+```bash
+ffmpeg -f alsa -i hw:1,0 -acodec pcm_s16le -ar 44100 output.wav
+```
+
+Options:
+- `-f alsa` - use ALSA input
+- `-i hw:1,0` - input device (card 1, device 0)
+- `-acodec pcm_s16le` - 16-bit PCM encoding
+- `-ar 44100` - sample rate (44.1kHz)
+
+List your audio devices:
+```bash
+ffmpeg -f alsa -list_devices true -i dummy
+```
+
+## 3. **Using `parecord` (PulseAudio)**
+If you're using PulseAudio:
+
+```bash
+parecord --format=s16le --rate=44100 --channels=2 output.wav
+```
+
+List devices:
+```bash
+pactl list sources
+```
+
+Record from a specific source:
+```bash
+parecord --device=<device_name> output.wav
+```
+
+## 4. **Using `sox` (Sound eXchange)**
+Versatile audio tool:
+
+```bash
+rec -r 44100 -b 16 -c 2 output.wav
+```
+
+Or with device specification:
+```bash
+rec -d hw:1,0 -r 44100 -b 16 -c 2 output.wav
+```
+
+## 5. **Using `Audacity` CLI (Non-interactive)**
+```bash
+audacity -export=output.wav yourproject.aup3
+```
+
+## Find Your Audio Interface:
+
+**List all ALSA devices:**
+```bash
+cat /proc/asound/cards
+```
+
+**List with detailed info:**
+```bash
+arecord -l
+```
+
+**Check PulseAudio sources:**
+```bash
+pactl list sources
+```
+
+**JACK routing (advanced):**
+```bash
+jack_lsp  # List all JACK ports
+```
+
+## Practical Example:
+
+```bash
+# Check devices
+arecord -l
+
+# Record 30 seconds in stereo, 44.1kHz
+timeout 30 arecord -f cd -t wav recording.wav
+
+# Or record until you press Ctrl+C
+arecord -f cd -t wav recording.wav
+```
+
+## Troubleshooting:
+
+**Permission denied?**
+```bash
+sudo usermod -a -G audio $USER
+newgrp audio
+```
+
+**No sound captured?**
+- Check input levels: `alsamixer` (press F6 to select device, arrow keys to adjust)
+- Verify device is selected: `arecord -D hw:X,Y -f cd -t wav output.wav`
+
