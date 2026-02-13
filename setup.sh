@@ -1,4 +1,6 @@
 sudo apt update
-sudo apt install -y pianobooster frescobaldi lilypond ruby alsa-utils \
-                    gh
+sudo apt instal -y lilypond pianobooster frescobaldi \
+	           ruby gh \
+		   alsa-utils sox
+
 sudo gem install coltrane rouge

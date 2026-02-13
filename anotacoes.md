@@ -21,4 +21,8 @@ pode ser útil para analisal em tempo real o que está saindo no teclado.
 
     sox -m input1.wav -v -1 input2.wav diff.wav
 
+---
+
+arecord -f cd -t wav output.wav
+
 
