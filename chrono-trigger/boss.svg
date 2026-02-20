@@ -1,0 +1,441 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="148.00mm" viewBox="0.0000 -0.0000 68.2866 48.1258">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(24.5149, 4.3046)">
+<text font-family="serif" font-weight="bold" font-size="3.4924" text-anchor="start" fill="currentColor">
+<tspan>Boss Battle</tspan>
+</text>
+</g>
+<g transform="translate(24.5637, 7.8046)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
+<tspan>Chrono Trigger</tspan>
+</text>
+</g>
+<g transform="translate(57.6599, 11.3046)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>Square</tspan>
+</text>
+</g>
+<g transform="translate(56.5283, 14.8046)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>HeitorJr</tspan>
+</text>
+</g>
+<g transform="translate(8.1294, 26.1259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="51.6224" y2="0"/>
+</g>
+<g transform="translate(8.1294, 25.1259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="51.6224" y2="0"/>
+</g>
+<g transform="translate(8.1294, 24.1259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="51.6224" y2="0"/>
+</g>
+<g transform="translate(8.1294, 23.1259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="51.6224" y2="0"/>
+</g>
+<g transform="translate(8.1294, 22.1259)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="51.6224" y2="0"/>
+</g>
+<g transform="translate(59.6512, 24.1259)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(51.0409, 24.1259)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:35:36">
+<g transform="translate(49.5410, 22.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(49.2971, 22.9376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:29:4:5">
+<g transform="translate(53.6133, 25.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(53.6133, 25.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(53.3011, 25.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:30:31">
+<g transform="translate(46.3947, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M256 265c0 -46 77 -32 77 -125c0 -92 -79 -140 -179 -140c-80 0 -154 50 -154 125c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -29 -40 -54c0 -27 32 -36 63 -36c45 0 63 53 63 105c0 58 -1 103 -50 103h-72c-15 0 -22 11 -22 22s7 21 22 21h72c48 0 50 44 50 100
+c0 49 -21 79 -67 79c-28 0 -57 -9 -57 -33c0 -22 35 -25 35 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 68 64 115 136 115c91 0 169 -33 169 -114c0 -106 -63 -73 -63 -121z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(46.2762, 24.1259)">
+<rect x="-0.0467" y="0.1956" width="0.0934" height="2.8044" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(45.0795, 24.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:40:41">
+<g transform="translate(49.1606, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M176 286c-100 0 -97 -49 -122 -49c-11 0 -23 8 -23 22v216c0 14 10 25 22 25c1 0 72 -13 130 -13c57 0 132 13 133 13c14 0 22 -9 22 -17c0 -9 -74 -92 -238 -92c-14 0 -25 -11 -25 -25v-71c26 26 64 35 101 35c113 0 179 -55 179 -165c0 -96 -88 -165 -188 -165
+c-85 0 -167 47 -167 125c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -29 -40 -54c0 -31 40 -36 76 -36c54 0 71 67 71 130c0 58 -12 121 -62 121z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(49.0518, 24.1259)">
+<rect x="-0.0467" y="-1.3044" width="0.0934" height="3.5216" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(47.8551, 22.6259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<g transform="translate(43.4539, 27.9218)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0457" fill="currentColor" stroke="currentColor" points="5.6217 -1.8090 5.6217 -1.3747 0.0229 0.2171 0.0229 -0.2171"/>
+</g>
+<g transform="translate(37.2105, 24.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c7 4 16 6 24 6s16 -2 23 -6l-2 -177l109 18c1 0 2 1 3 1c9 0 17 -8 17 -17l7 -575c-7 -4 -16 -6 -24 -6s-17 2 -24 6l2 177l-109 -18c-1 0 -1 -1 -2 -1c-9 0 -17 8 -17 17zM132 114l-95 -15l-3 -213l96 15z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:35:36">
+<g transform="translate(41.7180, 25.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.4058, 25.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:39:40">
+<g transform="translate(41.3571, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M175 487c16 0 29 14 39 14s19 -12 19 -26v-358c0 -44 31 -82 73 -82c12 0 18 -9 18 -18s-6 -17 -18 -17c-44 0 -87 13 -131 13s-87 -13 -131 -13c-12 0 -18 8 -18 17s6 18 18 18c42 0 73 38 73 82v176c0 18 -14 28 -25 28c-6 0 -12 -3 -15 -9l-37 -80
+c-4 -9 -12 -13 -19 -13c-11 0 -23 9 -23 21c0 3 0 7 2 10l117 250c8 17 38 -13 58 -13z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(41.2288, 24.1259)">
+<rect x="-0.0467" y="1.1956" width="0.0934" height="2.2938" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:26:27">
+<g transform="translate(46.7654, 24.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(46.4728, 24.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(40.0321, 25.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:16:17">
+<g transform="translate(43.9898, 25.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(43.7460, 25.9376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:18:19">
+<g transform="translate(43.5801, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M89 64c-61 0 -44 -64 -71 -64c-9 0 -18 6 -18 17c0 154 232 165 232 338c0 54 -20 110 -67 110c-25 0 -49 -13 -49 -36c0 -27 35 -42 35 -69c0 -38 -31 -69 -69 -69s-69 31 -69 69c0 80 70 140 152 140c95 0 183 -57 183 -145c0 -146 -144 -157 -237 -217c5 1 10 1 15 1
+c84 0 115 -60 170 -60c44 0 29 38 53 38c9 0 18 -7 18 -17c0 -25 -44 -100 -135 -100c-90 0 -93 64 -143 64z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(43.5006, 24.1259)">
+<rect x="-0.0467" y="1.6956" width="0.0934" height="2.0871" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:2:3">
+<g transform="translate(22.1387, 28.1016)">
+<text font-family="serif" font-style="italic" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:2:3">
+<g transform="translate(29.8579, 28.7524)">
+<text font-family="serif" font-style="italic" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(19.6542, 25.3299)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0457" fill="currentColor" stroke="currentColor" points="5.9217 1.3747 5.9217 1.8090 0.0229 0.2171 0.0229 -0.2171"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:2:3">
+<g transform="translate(37.9193, 28.9517)">
+<text font-family="serif" font-style="italic" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(27.7772, 27.6259)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0457" fill="currentColor" stroke="currentColor" points="5.1142 -1.9212 5.1142 -1.4869 0.0229 0.2171 0.0229 -0.2171"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:2:3">
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:28:2:3">
+<g transform="translate(45.7884, 29.1022)">
+<text font-family="serif" font-style="italic" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(35.5387, 26.3299)">
+<polygon stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0457" fill="currentColor" stroke="currentColor" points="5.7140 1.0788 5.7140 1.5131 0.0229 0.2171 0.0229 -0.2171"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:29:15:16">
+<g transform="translate(53.1646, 19.9292)">
+<path transform="scale(0.0022, -0.0022)" d="M158 501c8 0 37 -14 67 -14c31 0 59 14 70 14c12 0 21 -8 21 -17c0 -3 -1 -6 -3 -9l-269 -306h152v3c0 50 42 35 68 77c7 12 10 25 16 37c3 6 7 9 13 9c9 0 20 -8 20 -21v-105h65c15 0 22 -11 22 -22s-7 -22 -22 -22h-65v-8c0 -44 30 -82 72 -82c12 0 18 -9 18 -18
+s-6 -17 -18 -17c-44 0 -87 13 -131 13s-87 -13 -131 -13c-12 0 -18 8 -18 17s6 18 18 18c42 0 73 38 73 82v8h-152c-35 0 -47 22 -47 35c0 18 141 139 141 315c0 14 9 26 20 26z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:29:13:14">
+<g transform="translate(53.2524, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M175 487c16 0 29 14 39 14s19 -12 19 -26v-358c0 -44 31 -82 73 -82c12 0 18 -9 18 -18s-6 -17 -18 -17c-44 0 -87 13 -131 13s-87 -13 -131 -13c-12 0 -18 8 -18 17s6 18 18 18c42 0 73 38 73 82v176c0 18 -14 28 -25 28c-6 0 -12 -3 -15 -9l-37 -80
+c-4 -9 -12 -13 -19 -13c-11 0 -23 9 -23 21c0 3 0 7 2 10l117 250c8 17 38 -13 58 -13z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:29:7:8">
+<g transform="translate(53.6133, 23.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(53.6133, 23.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(53.2914, 23.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(21.4297, 23.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:26:27">
+<g transform="translate(23.1157, 23.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(22.7937, 23.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:31:32">
+<g transform="translate(22.7450, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M256 265c0 -46 77 -32 77 -125c0 -92 -79 -140 -179 -140c-80 0 -154 50 -154 125c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -29 -40 -54c0 -27 32 -36 63 -36c45 0 63 53 63 105c0 58 -1 103 -50 103h-72c-15 0 -22 11 -22 22s7 21 22 21h72c48 0 50 44 50 100
+c0 49 -21 79 -67 79c-28 0 -57 -9 -57 -33c0 -22 35 -25 35 -47c0 -32 -25 -57 -57 -57s-57 25 -57 57c0 68 64 115 136 115c91 0 169 -33 169 -114c0 -106 -63 -73 -63 -121z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(22.6264, 24.1259)">
+<rect x="-0.0467" y="-0.8044" width="0.0934" height="2.8044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:35:36">
+<g transform="translate(26.0412, 24.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(25.7388, 24.9389)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:39:40">
+<g transform="translate(25.6315, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M89 64c-61 0 -44 -64 -71 -64c-9 0 -18 6 -18 17c0 154 232 165 232 338c0 54 -20 110 -67 110c-25 0 -49 -13 -49 -36c0 -27 35 -42 35 -69c0 -38 -31 -69 -69 -69s-69 31 -69 69c0 80 70 140 152 140c95 0 183 -57 183 -145c0 -146 -144 -157 -237 -217c5 1 10 1 15 1
+c84 0 115 -60 170 -60c44 0 29 38 53 38c9 0 18 -7 18 -17c0 -25 -44 -100 -135 -100c-90 0 -93 64 -143 64z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(25.5520, 24.1259)">
+<rect x="-0.0467" y="0.6956" width="0.0934" height="2.0878" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(24.3553, 24.6259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<g transform="translate(19.7008, 24.1259)">
+<rect x="-0.0467" y="-2.3044" width="0.0934" height="3.5209" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:16:17">
+<g transform="translate(20.1901, 21.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(19.8779, 21.9376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:25:22:23">
+<g transform="translate(19.8096, 20.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M176 286c-100 0 -97 -49 -122 -49c-11 0 -23 8 -23 22v216c0 14 10 25 22 25c1 0 72 -13 130 -13c57 0 132 13 133 13c14 0 22 -9 22 -17c0 -9 -74 -92 -238 -92c-14 0 -25 -11 -25 -25v-71c26 26 64 35 101 35c113 0 179 -55 179 -165c0 -96 -88 -165 -188 -165
+c-85 0 -167 47 -167 125c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -29 -40 -54c0 -31 40 -36 76 -36c54 0 71 67 71 130c0 58 -12 121 -62 121z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(8.9294, 25.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:22:2:3">
+<g transform="translate(12.5331, 24.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<g transform="translate(13.4369, 22.6259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(15.3869, 24.1259)">
+<path transform="scale(0.0040, -0.0040)" d="M250 261c117 0 180 -102 180 -162c0 -40 -32 -74 -70 -74c-31 0 -76 25 -76 77c0 39 28 78 74 78c2 0 10 1 18 -1c-29 37 -76 60 -126 60c-106 0 -113 -73 -113 -185v-54v-54c0 -112 7 -185 113 -185c82 0 145 68 164 151c1 6 6 9 10 9c6 0 11 -4 11 -11
+c0 -23 -51 -171 -185 -171c-59 0 -250 19 -250 261c0 62 18 261 250 261z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:23:2:3">
+<g transform="translate(15.3869, 18.5053)">
+<rect x="1.0475" y="-2.6727" width="0.1158" height="2.4974" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(15.3869, 18.5053)">
+<path transform="scale(0.0036, -0.0036)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+<g transform="translate(16.5502, 18.9854)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan> = 180</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(18.5042, 21.6259)">
+<path transform="scale(0.0040, -0.0040)" d="M25 44l-1 -69c0 -4 -1 -7 -1 -11c0 -22 2 -44 4 -66c46 38 96 80 96 139c0 34 -14 69 -44 69c-31 0 -53 -29 -54 -62zM-25 463c8 4 16 7 25 7s17 -3 25 -7l-6 -349c26 19 56 30 88 30c53 0 93 -46 93 -100c0 -82 -90 -118 -153 -169c-14 -11 -22 -32 -40 -32
+c-12 0 -21 9 -21 21z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:35:36">
+<g transform="translate(33.3567, 22.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(33.1129, 22.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(32.8675, 24.1259)">
+<rect x="-0.0467" y="-1.8044" width="0.0934" height="3.6158" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:16:17">
+<g transform="translate(36.0746, 22.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(35.8307, 22.9376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:19:20">
+<g transform="translate(35.6258, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M158 501c8 0 37 -14 67 -14c31 0 59 14 70 14c12 0 21 -8 21 -17c0 -3 -1 -6 -3 -9l-269 -306h152v3c0 50 42 35 68 77c7 12 10 25 16 37c3 6 7 9 13 9c9 0 20 -8 20 -21v-105h65c15 0 22 -11 22 -22s-7 -22 -22 -22h-65v-8c0 -44 30 -82 72 -82c12 0 18 -9 18 -18
+s-6 -17 -18 -17c-44 0 -87 13 -131 13s-87 -13 -131 -13c-12 0 -18 8 -18 17s6 18 18 18c42 0 73 38 73 82v8h-152c-35 0 -47 22 -47 35c0 18 141 139 141 315c0 14 9 26 20 26z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(35.5854, 24.1259)">
+<rect x="-0.0467" y="-1.3044" width="0.0934" height="3.5190" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:38:39">
+<g transform="translate(32.9763, 21.0899)">
+<path transform="scale(0.0022, -0.0022)" d="M176 286c-100 0 -97 -49 -122 -49c-11 0 -23 8 -23 22v216c0 14 10 25 22 25c1 0 72 -13 130 -13c57 0 132 13 133 13c14 0 22 -9 22 -17c0 -9 -74 -92 -238 -92c-14 0 -25 -11 -25 -25v-71c26 26 64 35 101 35c113 0 179 -55 179 -165c0 -96 -88 -165 -188 -165
+c-85 0 -167 47 -167 125c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -29 -40 -54c0 -31 40 -36 76 -36c54 0 71 67 71 130c0 58 -12 121 -62 121z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(34.4927, 22.6259)">
+<path transform="scale(0.0040, -0.0040)" d="M-7 375c7 4 16 6 24 6s16 -2 23 -6l-2 -177l109 18c1 0 2 1 3 1c9 0 17 -8 17 -17l7 -575c-7 -4 -16 -6 -24 -6s-17 2 -24 6l2 177l-109 -18c-1 0 -1 -1 -2 -1c-9 0 -17 8 -17 17zM132 114l-95 -15l-3 -213l96 15z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:27:26:27">
+<g transform="translate(38.7924, 24.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(38.4998, 24.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(38.3032, 24.1259)">
+<rect x="-0.0467" y="0.1956" width="0.0934" height="2.6329" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:16:17">
+<g transform="translate(28.3131, 25.1259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(28.0009, 25.4376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:18:19">
+<g transform="translate(27.9521, 21.5899)">
+<path transform="scale(0.0022, -0.0022)" d="M175 487c16 0 29 14 39 14s19 -12 19 -26v-358c0 -44 31 -82 73 -82c12 0 18 -9 18 -18s-6 -17 -18 -17c-44 0 -87 13 -131 13s-87 -13 -131 -13c-12 0 -18 8 -18 17s6 18 18 18c42 0 73 38 73 82v176c0 18 -14 28 -25 28c-6 0 -12 -3 -15 -9l-37 -80
+c-4 -9 -12 -13 -19 -13c-11 0 -23 9 -23 21c0 3 0 7 2 10l117 250c8 17 38 -13 58 -13z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(27.8238, 24.1259)">
+<rect x="-0.0467" y="1.1956" width="0.0934" height="2.2889" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/chrono-trigger/boss.ly:26:26:27">
+<g transform="translate(30.8349, 23.6259)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(30.5520, 23.9376)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(30.3457, 24.1259)">
+<rect x="-0.0467" y="-0.3044" width="0.0934" height="2.9523" ry="0.0229" fill="currentColor"/>
+</g>
+</svg>
