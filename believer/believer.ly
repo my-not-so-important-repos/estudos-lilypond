@@ -1,5 +1,9 @@
 \version "2.7.40"
 
+\layout {
+  indent = 0
+}
+
 \header {
   crossRefNumber = "1"
   footnotes = ""
@@ -10,8 +14,8 @@
 
 #(set-global-staff-size 30)
 \paper {
-  %#(set-paper-size "a5landscape" )
-  #(set-paper-size "a5" 'landscape )
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -32,13 +36,13 @@ tananaaam = {
 
 descida_finger = {
   d''8[    c'']
-  \bar "|"
+  %\bar "|"
   d''4    d''8[    e'']    d''[    c''    a'8-1    g'-2] |
 }
 
 descida = {
   d''8[    c'']
-  \bar "|"
+  %\bar "|"
   d''4    d''8[    e'']    d''[    c''    a'8    g'] |
 }
 
@@ -48,7 +52,7 @@ voicedefault =  {
   \global
 
   \repeat volta 2 {
-    \bar ".|:"
+    %\bar ".|:"
     \tananaaam_finger
     \descida_finger
     \tananaaam_finger
@@ -69,7 +73,7 @@ voice_bass =  {
   \global
   \clef bass
   \repeat volta 2 {
-    \bar ".|:"
+    %\bar ".|:"
     a1 | a | f | e
     \break
     a1 | a | f | e
