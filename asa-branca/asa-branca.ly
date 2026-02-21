@@ -1,5 +1,9 @@
 \version "2.24.3"
 
+\layout {
+  indent = 0
+}
+
 \header {
   %title = "Asa Branca"
   % Remove default LilyPond tagline
@@ -10,13 +14,15 @@
 
 #(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5" 'landscape )
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
 }
 
 global = {
   \easyHeadsOn
   \key c \major
   \time 4/4
+  \tempo 4=60
   \numericTimeSignature
 }
 
@@ -59,10 +65,12 @@ acordes = \chordmode {
       \clef treble
       \right
     }
+    %{
     \context Staff="bass2" {
       \clef bass
       \acordes
     }
+    %}
   >>
 
   %{
