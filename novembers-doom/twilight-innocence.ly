@@ -1,5 +1,9 @@
 \version "2.24.3"
 
+\layout {
+  indent = 0
+}
+
 \header {
   title = "Twilight Innocence"
   tagline = ##f
