@@ -7,8 +7,8 @@
 \header {
   title = "Twilight Innocence"
   tagline = ##f
-  %composer = "Novembers Doom"
-  arranger = "Novembers Doom | HeitorJr"
+  composer = "Novembers Doom"
+  enteredby = "HeitorJr"
 }
 
 #(set-global-staff-size 30)
@@ -73,9 +73,6 @@ upper= {
       \revert Arpeggio.stencil
     }
   }
-  %{
-  \layout {
-    indent = 0
-  %}
 
+  \midi { }
 }
