@@ -13,10 +13,11 @@ Minhas partituras.
 
 ### Doom
 
-- Draconian
-  - [Death Come Near Me](death-come-near-me)
+- [Draconian](draconian)
+  - [Death Come Near Me](draconian/death-come-near-me)
+  - [Cry of Silence](draconian/cry-of-silence)
 - [Novembers Doom](novembers-doom)
-  - Twilight Innocence
+  - Twilight Innocence (intro)
 
 ### Video Games
 
