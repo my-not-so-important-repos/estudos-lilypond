@@ -4,604 +4,961 @@
 tspan { white-space: pre; }
 ]]>
 </style>
-<g transform="translate(53.5432, 3.3223)">
-<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<g transform="translate(27.2268, 3.5520)">
+<text font-family="serif" font-weight="bold" font-size="2.4697" text-anchor="start" fill="currentColor">
 <tspan>Jingle Bells</tspan>
 </text>
 </g>
-<g transform="translate(3.2517, 11.8066)">
-<rect x="45.4503" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
+<g transform="translate(3.2517, 15.7357)">
+<rect x="44.2487" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(64.8984, 8.8066)">
+<g transform="translate(64.8984, 12.7357)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(28.4068, 8.8066)">
+<g transform="translate(24.8567, 12.7357)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(55.9023, 8.8066)">
+<g transform="translate(55.3049, 12.7357)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(41.2462, 8.8066)">
+<g transform="translate(39.1735, 12.7357)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(8.1294, 10.8066)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
+<g transform="translate(3.2517, 14.7357)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(8.1294, 9.8066)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
+<g transform="translate(3.2517, 13.7357)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(8.1294, 8.8066)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
+<g transform="translate(3.2517, 12.7357)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(8.1294, 7.8066)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
+<g transform="translate(3.2517, 11.7357)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(8.1294, 6.8066)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="56.8696" y2="0"/>
+<g transform="translate(3.2517, 10.7357)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(50.2876, 8.8066)">
-<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(48.7935, 12.7357)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:25:7:8">
-<g transform="translate(49.0285, 11.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:7:8">
+<g transform="translate(48.3043, 15.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-</a>
-<g transform="translate(47.2079, 8.8066)">
-<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.0214, 16.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:25:5:6">
-<g transform="translate(45.9488, 9.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(43.6281, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:25:2:3">
-<g transform="translate(42.3690, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:25:10:11">
-<g transform="translate(52.3582, 11.3066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(34.4768, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(45.3824, 12.7357)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:5:6">
+<g transform="translate(44.8932, 13.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(44.5810, 14.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:26:2:3">
-<g transform="translate(58.0251, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M215 114c-41 0 -71 -27 -71 -88c0 -104 91 -140 139 -140c41 0 70 27 70 88c0 104 -90 140 -138 140zM249 135c145 0 248 -64 248 -135s-103 -135 -248 -135s-249 64 -249 135s104 135 249 135z" fill="currentColor"/>
+<g transform="translate(41.4713, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:2:3">
+<g transform="translate(40.9821, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(40.7382, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(53.6173, 8.8066)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:31:2:3">
+<g transform="translate(58.1135, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-<g transform="translate(24.6750, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(58.1135, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
 </g>
-<g transform="translate(37.5144, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(21.2790, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:23:5:6">
-<g transform="translate(20.0199, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(57.8696, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:23:7:8">
-<g transform="translate(23.3497, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<g transform="translate(52.4547, 12.7357)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:10:11">
+<g transform="translate(51.9654, 15.2357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(51.6435, 15.5475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(17.9493, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(20.1600, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:17:2:3">
-<g transform="translate(13.1294, 8.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
-s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:28:7:8">
+<g transform="translate(19.6707, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-<g transform="translate(13.1294, 10.8226)">
-<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
-s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(19.6707, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:15:2:3">
-</a>
-<g transform="translate(8.9294, 9.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
-c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
-zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
-c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:23:2:3">
-<g transform="translate(16.6902, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(19.4269, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:48:2:3">
-<g transform="translate(16.6902, 6.2446)">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:53:2:3">
+<g transform="translate(11.8126, 10.1737)">
 <text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:24:7:8">
-<g transform="translate(36.1891, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:7:8">
+<g transform="translate(33.9875, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-</a>
-<g transform="translate(34.1185, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(33.9875, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:24:5:6">
-<g transform="translate(32.8593, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
-</a>
-<g transform="translate(30.7887, 8.8066)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:24:2:3">
-<g transform="translate(29.5296, 10.8066)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(3.2517, 22.0749)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 21.0749)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 20.0749)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 19.0749)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 18.0749)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(36.2406, 20.0749)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(52.3809, 20.0749)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(22.0393, 20.0749)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(64.8984, 20.0749)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:5:6">
-<g transform="translate(41.1270, 22.0749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(42.3861, 20.0749)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:7:8">
-<g transform="translate(44.7996, 22.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(46.0587, 20.0749)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:9:10">
-<g transform="translate(48.4723, 22.0749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(49.7314, 20.0749)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<g transform="translate(38.7135, 20.0749)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:30:2:3">
-<g transform="translate(37.4544, 22.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:49:10:11">
-<g transform="translate(37.4544, 17.5128)">
-<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
-<tspan>G</tspan>
+<g transform="translate(33.7436, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(60.5814, 20.0749)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<g transform="translate(16.4988, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:31:5:6">
-<g transform="translate(59.2561, 21.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(54.9199, 20.0749)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:31:2:3">
-<g transform="translate(53.5946, 22.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:49:2:3">
-<g transform="translate(9.0517, 17.5128)">
-<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
-<tspan>G</tspan>
-</text>
-</g>
-</a>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:28:2:3">
-<g transform="translate(9.0517, 21.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(12.3485, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(12.1046, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(10.3109, 20.0749)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:28:5:6">
-<g transform="translate(12.7244, 21.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(13.9835, 20.0749)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:28:7:8">
-<g transform="translate(16.3970, 21.5749)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(4.0517, 21.0749)">
+<g transform="translate(4.0517, 13.7357)">
 <path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
 c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
 zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
 c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<g transform="translate(17.7224, 20.0749)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:28:5:6">
+<g transform="translate(16.0096, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-<g transform="translate(2.2762, 17.0215)">
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(15.7657, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(12.8377, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:22:2:3">
+<g transform="translate(8.2517, 7.3174)">
+<rect x="1.0475" y="-2.6727" width="0.1158" height="2.4974" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(8.2517, 7.3174)">
+<path transform="scale(0.0036, -0.0036)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+<g transform="translate(9.4151, 7.7975)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan> = 100</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:21:2:3">
+<g transform="translate(8.2517, 12.7357)">
+<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
+s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+</g>
+<g transform="translate(8.2517, 14.7517)">
+<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
+s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:19:2:3">
+</a>
+<g transform="translate(30.8156, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:5:6">
+<g transform="translate(30.3264, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(30.0825, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(27.1545, 12.7357)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:2:3">
+<g transform="translate(26.6653, 14.7357)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(26.4214, 15.0475)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(3.2517, 24.6953)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 23.6953)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 22.6953)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 21.6953)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 20.6953)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(36.2322, 22.6953)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(52.2851, 22.6953)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(22.0087, 22.6953)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.8984, 22.6953)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:5:6">
+<g transform="translate(41.6721, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.4282, 25.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(42.1613, 22.6953)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:7:8">
+<g transform="translate(45.3097, 25.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(44.9878, 25.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(45.7990, 22.6953)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:9:10">
+<g transform="translate(48.9473, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.7035, 25.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(49.4366, 22.6953)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(38.5237, 22.6953)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:2:3">
+<g transform="translate(38.0345, 25.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(37.7126, 25.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:54:10:11">
+<g transform="translate(37.4986, 20.1332)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(60.2775, 22.6953)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:36:5:6">
+<g transform="translate(59.7883, 23.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(59.7883, 23.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(59.4761, 24.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(54.5766, 22.6953)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:36:2:3">
+<g transform="translate(54.0874, 25.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(54.0874, 25.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(53.7655, 25.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:54:2:3">
+<g transform="translate(9.0517, 20.1332)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:2:3">
+<g transform="translate(9.5877, 24.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(9.3438, 24.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(10.0769, 22.6953)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:5:6">
+<g transform="translate(13.2253, 24.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(12.9814, 24.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(13.7145, 22.6953)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:7:8">
+<g transform="translate(16.8629, 24.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(16.8629, 24.1953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(16.6190, 24.5070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(4.0517, 23.6953)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<g transform="translate(17.3521, 22.6953)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 19.6419)">
 <text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>5</tspan>
 </text>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:5:6">
-<g transform="translate(26.9257, 22.0749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:5:6">
+<g transform="translate(27.4487, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(27.2048, 25.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(28.1848, 20.0749)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(27.9379, 22.6953)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(24.5122, 20.0749)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(24.3003, 22.6953)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:7:8">
-<g transform="translate(30.5983, 22.0749)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:7:8">
+<g transform="translate(31.0863, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(31.0863, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(30.8424, 25.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<g transform="translate(31.9237, 20.0749)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<g transform="translate(31.5755, 22.6953)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:29:2:3">
-<g transform="translate(23.2531, 22.0749)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:2:3">
+<g transform="translate(23.8111, 24.6953)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(23.5672, 25.0070)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:49:6:7">
-<g transform="translate(23.2531, 17.5128)">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:54:6:7">
+<g transform="translate(23.2752, 20.1332)">
 <text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<g transform="translate(3.2517, 34.3431)">
-<rect x="43.0063" y="-0.0859" width="1.9587" height="0.1718" ry="0.0859" fill="currentColor"/>
+<g transform="translate(3.2517, 35.6548)">
+<rect x="43.3653" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
 </g>
-<g transform="translate(64.8984, 31.3431)">
+<g transform="translate(64.8984, 32.6548)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(22.7047, 31.3431)">
+<g transform="translate(22.7957, 32.6548)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(54.5031, 31.3431)">
+<g transform="translate(54.7992, 32.6548)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(37.6189, 31.3431)">
+<g transform="translate(37.8625, 32.6548)">
 <rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
 </g>
-<g transform="translate(3.2517, 33.3431)">
+<g transform="translate(3.2517, 34.6548)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(3.2517, 32.3431)">
+<g transform="translate(3.2517, 33.6548)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(3.2517, 31.3431)">
+<g transform="translate(3.2517, 32.6548)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(3.2517, 30.3431)">
+<g transform="translate(3.2517, 31.6548)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(3.2517, 29.3431)">
+<g transform="translate(3.2517, 30.6548)">
 <line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
 </g>
-<g transform="translate(47.8436, 31.3431)">
-<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(47.9102, 32.6548)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:7:8">
-<g transform="translate(46.5845, 34.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:7:8">
+<g transform="translate(47.4210, 35.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-</a>
-<g transform="translate(32.9956, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(47.1381, 35.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
 </g>
-<g transform="translate(44.2415, 31.3431)">
-<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:5:6">
-<g transform="translate(42.9824, 32.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<g transform="translate(40.1393, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(32.8435, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:2:3">
-<g transform="translate(38.8802, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(44.3103, 32.6548)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:36:2:3">
-<g transform="translate(56.7644, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M215 114c-41 0 -71 -27 -71 -88c0 -104 91 -140 139 -140c41 0 70 27 70 88c0 104 -90 140 -138 140zM249 135c145 0 248 -64 248 -135s-103 -135 -248 -135s-249 64 -249 135s104 135 249 135z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:5:6">
+<g transform="translate(43.8210, 33.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-</a>
-<g transform="translate(51.6957, 31.3431)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(43.5089, 33.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:35:10:11">
-<g transform="translate(50.4366, 33.8431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:5:6">
-<g transform="translate(12.9039, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(40.2103, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:2:3">
+<g transform="translate(39.7211, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(39.4772, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(18.0814, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:41:2:3">
+<g transform="translate(57.6578, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:7:8">
-<g transform="translate(16.7560, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(57.6578, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(57.4140, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<g transform="translate(4.0517, 32.3431)">
+<g transform="translate(51.7601, 32.6548)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:10:11">
+<g transform="translate(51.2709, 35.1548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(50.9490, 35.4666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:38:5:6">
+<g transform="translate(13.4376, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(13.1937, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(17.7768, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:38:7:8">
+<g transform="translate(17.2875, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(17.2875, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(17.0436, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(4.0517, 33.6548)">
 <path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
 c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
 zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
 c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:7:8">
-<g transform="translate(31.6703, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:7:8">
+<g transform="translate(32.3542, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(32.3542, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(32.1104, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<g transform="translate(14.1630, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(13.9268, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<g transform="translate(2.2762, 28.2880)">
+<g transform="translate(2.2762, 29.5997)">
 <text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>9</tspan>
 </text>
 </g>
-<g transform="translate(10.3109, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:33:2:3">
-<g transform="translate(9.0517, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:50:2:3">
-<g transform="translate(9.0517, 28.7811)">
-<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
-<tspan>C</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(29.0772, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:5:6">
-<g transform="translate(27.8181, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(25.2251, 31.3431)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:34:2:3">
-<g transform="translate(23.9660, 33.3431)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(3.2517, 45.6114)">
-<rect x="52.4343" y="-0.0859" width="2.9831" height="0.1718" ry="0.0859" fill="currentColor"/>
-</g>
-<g transform="translate(3.2517, 44.6114)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 43.6114)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 42.6114)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 41.6114)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(3.2517, 40.6114)">
-<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
-</g>
-<g transform="translate(37.4107, 42.6114)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(22.6042, 42.6114)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(64.6039, 42.6114)">
-<rect x="0.0000" y="-2.0000" width="0.4310" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(64.2519, 42.6114)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<g transform="translate(53.9292, 42.6114)">
-<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:5:6">
-<g transform="translate(42.4898, 43.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(43.7489, 42.6114)">
-<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:7:8">
-<g transform="translate(46.3148, 44.1114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(47.5740, 42.6114)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<g transform="translate(39.9239, 42.6114)">
-<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:2:3">
-<g transform="translate(38.6648, 43.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:51:6:7">
-<g transform="translate(38.6648, 39.5852)">
-<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
-<tspan>G</tspan>
-</text>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:40:9:10">
-<g transform="translate(49.8899, 45.1114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:41:2:3">
-<g transform="translate(56.1833, 45.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M215 114c-41 0 -71 -27 -71 -88c0 -104 91 -140 139 -140c41 0 70 27 70 88c0 104 -90 140 -138 140zM249 135c145 0 248 -64 248 -135s-103 -135 -248 -135s-249 64 -249 135s104 135 249 135z" fill="currentColor"/>
-</g>
-</a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:51:8:9">
-<g transform="translate(56.1833, 39.5852)">
-<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
-<tspan>C</tspan>
-</text>
-</g>
-</a>
-<g transform="translate(51.1490, 42.6114)">
-<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<g transform="translate(18.0271, 42.6114)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
-</g>
-<g transform="translate(32.8336, 42.6114)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2316" ry="0.0229" fill="currentColor"/>
-</g>
-<g transform="translate(14.1359, 42.6114)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
-</g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:38:5:6">
-<g transform="translate(12.8768, 44.1114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
-</g>
-</a>
-<g transform="translate(10.3109, 42.6114)">
-<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(10.0769, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
 <a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:38:2:3">
-<g transform="translate(9.0517, 44.1114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<g transform="translate(9.5877, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(9.3438, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:51:2:3">
-<g transform="translate(9.0517, 39.5852)">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:55:2:3">
+<g transform="translate(9.0517, 30.0927)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(28.9935, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:5:6">
+<g transform="translate(28.5043, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(28.2604, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(25.1436, 32.6548)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:2:3">
+<g transform="translate(24.6544, 34.6548)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(24.4105, 34.9666)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(3.2517, 45.6144)">
+<rect x="53.0211" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(3.2517, 44.6144)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 43.6144)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 42.6144)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 41.6144)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(3.2517, 40.6144)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="61.7472" y2="0"/>
+</g>
+<g transform="translate(37.6542, 42.6144)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(22.6952, 42.6144)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.6039, 42.6144)">
+<rect x="0.0000" y="-2.0000" width="0.4310" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(64.2519, 42.6144)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.2253, 42.6144)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:45:5:6">
+<g transform="translate(43.3285, 43.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(43.0163, 43.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(43.8177, 42.6144)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:45:7:8">
+<g transform="translate(47.1513, 44.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(46.9074, 44.4261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(47.6405, 42.6144)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(39.9949, 42.6144)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:45:2:3">
+<g transform="translate(39.5057, 43.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(39.1935, 43.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:56:6:7">
+<g transform="translate(38.9698, 39.5882)">
 <text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>G</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:38:7:8">
-<g transform="translate(16.7018, 44.1114)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:45:9:10">
+<g transform="translate(50.7241, 45.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(50.4022, 45.4261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(1.3007, 39.5580)">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:46:2:3">
+<g transform="translate(57.0767, 45.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(57.0767, 45.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(56.7938, 45.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:56:8:9">
+<g transform="translate(56.5408, 39.5882)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(51.2133, 42.6144)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(17.7225, 42.6144)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(32.6815, 42.6144)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(13.8997, 42.6144)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:43:5:6">
+<g transform="translate(13.4105, 44.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(13.1666, 44.4261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(10.0769, 42.6144)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:43:2:3">
+<g transform="translate(9.5877, 44.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(9.3438, 44.4261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:56:2:3">
+<g transform="translate(9.0517, 39.5882)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:43:7:8">
+<g transform="translate(17.2333, 44.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(17.2333, 44.1144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(16.9894, 44.4261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(1.3007, 39.5610)">
 <text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
 <tspan>13</tspan>
 </text>
 </g>
-<g transform="translate(4.0517, 43.6114)">
+<g transform="translate(4.0517, 43.6144)">
 <path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
 c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
 zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
 c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:5:6">
-<g transform="translate(27.6833, 44.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:44:5:6">
+<g transform="translate(28.3695, 44.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(28.1256, 44.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(28.9424, 42.6114)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(28.8587, 42.6144)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:7:8">
-<g transform="translate(31.5083, 44.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M316 67c0 23 -18 42 -42 42c-40 0 -209 -113 -237 -147c-7 -8 -10 -19 -10 -29c0 -23 18 -42 42 -42c40 0 209 113 237 147c7 8 10 19 10 29zM265 135c38 0 78 -13 78 -68c0 -27 -19 -111 -76 -150c-19 -13 -85 -52 -189 -52c-38 0 -78 13 -78 68c0 27 19 111 76 150
-c19 13 85 52 189 52z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:44:7:8">
+<g transform="translate(32.1923, 44.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(32.1923, 44.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(31.9484, 44.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:51:4:5">
-<g transform="translate(23.8583, 39.5852)">
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:56:4:5">
+<g transform="translate(24.0108, 39.5882)">
 <text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
 <tspan>C</tspan>
 </text>
 </g>
 </a>
-<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:39:2:3">
-<g transform="translate(23.8583, 44.6114)">
-<path transform="scale(0.0040, -0.0040)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/jingle-bells/jingle-bells.ly:44:2:3">
+<g transform="translate(24.5467, 44.6144)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(24.3028, 44.9261)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
 </g>
 </a>
-<g transform="translate(25.1174, 42.6114)">
-<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3033" ry="0.0229" fill="currentColor"/>
+<g transform="translate(25.0359, 42.6144)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
 </g>
 </svg>

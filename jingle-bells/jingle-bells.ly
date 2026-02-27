@@ -1,7 +1,11 @@
 \version "2.24.3"
 
+\layout {
+  indent = 0
+}
+
 \header {
-  composer = "Jingle Bells"
+  subtitle = "Jingle Bells"
   tagline = ##f
 }
 
@@ -15,11 +19,12 @@ global = {
   \key c \major
   \numericTimeSignature
   \time 4/4
- % \tempo 4=100
+  \tempo 4=100
 }
 
 right = \relative c' {
   \global
+  \easyHeadsOn
   e4 e e2 |
   e4 e e2 |
   e4 g c, d |

@@ -1,9 +1,13 @@
 \version "2.24.3"
 %\language "portugues"
 
+\layout {
+  indent = 0
+}
+
 \header {
-  % title = "Ode a Alegria"
-  composer = "Ode a Alegria - Beethoven"
+  title = "Ode a Alegria"
+  composer = "Beethoven"
   enteredby = "HeitorJr"
   % Remove default LilyPond tagline
   tagline = ##f
@@ -17,17 +21,19 @@
 \layout {
   \context {
     \Score
-    \remove "Bar_number_engraver"
   }
 }
 
 global = {
   \key c \major
   \time 4/4
+  \tempo 4=120
+  \numericTimeSignature
 }
 
 right = \relative c' {
   \global
+  \easyHeadsOn
   e e f g | g f e d |
   \break
 
@@ -59,8 +65,6 @@ acordes = \chordmode {
     \new ChordNames { \acordes }
     \new Staff = "right" \right
   >>
-  \layout { }
-  \midi {
-    \tempo 4=120
-  }
+  \layout {}
+  \midi {}
 }

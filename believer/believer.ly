@@ -1,4 +1,4 @@
-\version "2.7.40"
+\version "2.24.3"
 
 \layout {
   indent = 0
@@ -10,6 +10,7 @@
   tagline = ##f
   %"Lily was here 2.24.3 -- automatically converted from ABC"
   subtitle = "Believer - Imagine Dragons"
+  enteredby = "HeitorJr"
 }
 
 #(set-global-staff-size 30)

@@ -1,1 +1,1 @@
-![](believer.png)
+![Believer - Imagine Dragons](believer.svg)

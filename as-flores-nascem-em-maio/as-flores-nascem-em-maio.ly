@@ -1,12 +1,17 @@
 \version "2.24.3"
 
 \header {
-  composer = "As flores nascem em maio"
+  title = "As flores nascem em maio"
   enteredby = "HeitorJr"
   tagline = ##f
 }
 
 #(set-global-staff-size 35)
+
+\layout {
+  indent = 0
+}
+
 \paper {
   #(set-paper-size "a5landscape")
 }
@@ -25,7 +30,7 @@ right = \relative c' {
   c4 d e f |
   g4 g g2 |
   \break
-  
+
   g4 e e2 |
   f4 d d2 |
   c4 e g g |
@@ -37,12 +42,12 @@ right = \relative c' {
   e4 e e e |
   e4 f g2 |
   \break
-  
+
   g4 e e2 |
   f4 d d2 |
   c4 e g g |
   c,1
-  
+
   \bar "|."
 }
 
