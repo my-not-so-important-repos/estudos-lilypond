@@ -32,10 +32,12 @@ upper= {
   %\key e \major
   \set Staff.midiInstrument = "acoustic guitar (steel)"
 
-  a,8 e  a  c' e  b  a  e  |
-  a,8 e  a  d' e  c' a  e  |
-  a,8 e  a  c' e  b  e  d' |
-  e8  e' e  c' e  b  a  e  |
+  \repeat volta 2 {
+    a,8 e  a  c' e  b  a  e  |
+    a,8 e  a  d' e  c' a  e  |
+    a,8 e  a  c' e  b  e  d' |
+    e8  e' e  c' e  b  a  e  |
+  }
   \break
   
   f8 a  f  c' f  b  a  f |
