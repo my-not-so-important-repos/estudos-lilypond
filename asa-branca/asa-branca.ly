@@ -1,15 +1,8 @@
 \version "2.24.3"
-
-\layout {
-  indent = 0
-}
+\include "../header.ly"
 
 \header {
-  %title = "Asa Branca"
-  % Remove default LilyPond tagline
   subsubtitle = "Asa Branca - Luiz Gonzaga"
-  enteredby = "HeitorJr"
-  tagline = ##f
 }
 
 #(set-global-staff-size 35)
@@ -18,16 +11,10 @@
   %#(set-paper-size "a5" 'landscape )
 }
 
-global = {
-  \easyHeadsOn
-  \key c \major
-  \time 4/4
-  \tempo 4=60
-  \numericTimeSignature
-}
-
 right = \relative c' {
-  \global
+  \global {
+    \tempo 4=140
+  }
   % 1
   r2 c4   d |  e2 g2   |  g2 e2     |  f2 f2   |
   \break
@@ -46,16 +33,13 @@ right = \relative c' {
 acordes = \chordmode {
   \global
 
-  s1 | c,  | s | f, |
-  s  | c,   | s | s |
+  s1 | c,   | s | f, |
+  s  | c,   | s | s  |
   s  | c,:7 | s | f, |
-  s  | g,,   | s | c, |
+  s  | g,,  | s | c, |
 }
 
-
-% {
 \score {
-
   <<
     \context ChordNames="bass" {
       \acordes
@@ -73,31 +57,7 @@ acordes = \chordmode {
     %}
   >>
 
-  %{
-  \new PianoStaff <<
-    \new ChordNames { \acordes }
-    \new Staff = "right" \right
-  >>
-  %}
-  \layout { }
-  \midi { \tempo 4=120 }
+  \layout {}
+  \midi {}
 }
-%}
 
-
-%{ Melhor compatíbilidade com piano-booster
-\score {
-  \new PianoStaff <<
-    \new Staff = "right" \with {
-      midiInstrument = "lead 1 (square)"
-    } \right
-    \new Staff = "left" \with {
-      midiInstrument = "lead 1 (square)"
-    } { \clef bass \acordes }
-  >>
-  \layout { }
-  \midi {
-    \tempo 4=90
-  }
-}
-% %}
