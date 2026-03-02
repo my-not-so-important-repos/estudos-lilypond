@@ -1,5 +1,6 @@
 \version "2.24.3"
 \include "../header.ly"
+#(set-global-staff-size 30)
 
 \header {
   title = "Ode a Alegria"
