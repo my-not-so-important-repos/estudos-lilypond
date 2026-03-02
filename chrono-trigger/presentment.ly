@@ -1,19 +1,9 @@
 \version "2.24.3"
+\include "header.ly"
 
 \header {
   title = "Presentiment"
   subtitle = "Chrono Trigger"
-  enteredby = "HeitorJr"
-  tagline = ##f
-}
-
-\paper {
-  #(set-paper-size "a5landscape")
-}
-
-global = {
-  \key c \major
-  % \time 4/4
 }
 
 right = \relative c' {
@@ -26,7 +16,6 @@ right = \relative c' {
 
 \score {
   \new PianoStaff <<
-    
     \new Staff = "right" \right
   >>
   \layout { }
