@@ -1,32 +1,17 @@
 \version "2.24.3"
-
+\include "../header.ly"
 % Chrono Trigger - Boss Battle
 % Arranger: HeitorJr
-\layout {
-  indent = 0
-}
 
 \header {
   title = "Boss Battle"
   subtitle = "Chrono Trigger"
-  tagline = ##f
-  composer = "Square"
-  arranger = "HeitorJr"
-}
-
-#(set-global-staff-size 35)
-\paper {
-  #(set-paper-size "a5landscape")
-  %#(set-paper-size "a5" 'landscape)
-}
-
-global = {
-  \easyHeadsOn
-  \key g \minor
 }
 
 {
-  \global
+  \global {
+    \key g \minor
+  }
   \tempo 4=180
 
   \tuplet 3/2 { ges''8-5  des''-3  aes'-2 }
@@ -42,8 +27,10 @@ global = {
 }
 
 {
-  \global
-  
+  \global {
+    \key g \minor
+  }
+
   \clef bass
   r1 |
   g,8 g, g, g, g, g, g, g, |
