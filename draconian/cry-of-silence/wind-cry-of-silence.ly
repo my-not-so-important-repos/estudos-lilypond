@@ -1,26 +1,14 @@
 \version "2.24.3"
 \language "english"
+\include "../../header.ly"
 
 \header {
   title = "Cry of Silence"
-  % Remove default LilyPond tagline
-  tagline = ##f
-}
-
-#(set-global-staff-size 35)
-
-\paper {
-  #(set-paper-size "a5landscape")
-}
-
-global = {
-  \key c \major
-  \time 4/4
 }
 
 flute = \relative c'' {
   \global
-  % Music follows here.
+  \tempo 4=100
 
   % {
   ef2. f4 ef d  c  ef d2 bf
@@ -40,6 +28,5 @@ flute = \relative c'' {
   } \flute
   \layout { }
   \midi {
-    \tempo 4=100
   }
 }
