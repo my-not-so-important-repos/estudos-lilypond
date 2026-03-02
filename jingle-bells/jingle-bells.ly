@@ -1,30 +1,15 @@
 \version "2.24.3"
-
-\layout {
-  indent = 0
-}
+\include "../header.ly"
 
 \header {
   subtitle = "Jingle Bells"
-  tagline = ##f
 }
 
-#(set-global-staff-size 35)
-
-\paper {
-  #(set-paper-size "a5landscape")
-}
-
-global = {
-  \key c \major
-  \numericTimeSignature
-  \time 4/4
-  \tempo 4=100
-}
 
 right = \relative c' {
-  \global
-  \easyHeadsOn
+  \global {
+    \tempo 4=100
+  }
   e4 e e2 |
   e4 e e2 |
   e4 g c, d |
@@ -49,7 +34,9 @@ right = \relative c' {
 }
 
 acordes = \chordmode {
-  \global
+  \global {
+    \tempo 4=100
+  }
   c1 | s1 | s | s |
   g | c | g | s
   c1 s s s
@@ -58,9 +45,15 @@ acordes = \chordmode {
 
 \score {
 
-  \new PianoStaff <<
-    \new ChordNames { \acordes }
-    \new Staff = "right" \right
+  <<
+    \context ChordNames="bass" {
+      \acordes
+    }
+
+    \context Staff="default" {
+      \clef treble
+      \right
+    }
   >>
 
   \layout { }

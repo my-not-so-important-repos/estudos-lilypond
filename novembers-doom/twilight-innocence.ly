@@ -1,29 +1,12 @@
 \version "2.24.3"
-
-\layout {
-  indent = 0
-}
+\include "../header.ly"
 
 \header {
   title = "Twilight Innocence"
-  tagline = ##f
   composer = "Novembers Doom"
-  enteredby = "HeitorJr"
 }
 
 #(set-global-staff-size 30)
-\paper {
-  indent = 0
-  #(set-paper-size "a5landscape")
-  %#(set-paper-size "a5" 'landscape)
-}
-
-global = {
-  \easyHeadsOn
-  %\key g \minor
-}
-
-
 
 upper= {
   \global

@@ -1,21 +1,9 @@
 \version "2.24.3"
-%\language "portugues"
-
-\layout {
-  indent = 0
-}
+\include "../header.ly"
 
 \header {
   title = "Ode a Alegria"
   composer = "Beethoven"
-  enteredby = "HeitorJr"
-  % Remove default LilyPond tagline
-  tagline = ##f
-}
-
-#(set-global-staff-size 35)
-\paper {
-  #(set-paper-size "a5landscape")
 }
 
 \layout {
@@ -25,10 +13,7 @@
 }
 
 global = {
-  \key c \major
-  \time 4/4
   \tempo 4=120
-  \numericTimeSignature
 }
 
 right = \relative c' {

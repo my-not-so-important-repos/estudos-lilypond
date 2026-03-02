@@ -1,8 +1,13 @@
 \version "2.24.3"
-\include "../header.ly"
+
+\layout {
+  indent = 0
+}
 
 \header {
-  subsubtitle = "Asa Branca - Luiz Gonzaga"
+  subsubtitle = "Aquarela - Toquinho"
+  enteredby = "HeitorJr"
+  tagline = ##f
 }
 
 #(set-global-staff-size 35)
@@ -11,10 +16,15 @@
   %#(set-paper-size "a5" 'landscape )
 }
 
+global = {
+  \key c \major
+  \time 4/4
+  \tempo 4=120
+  \numericTimeSignature
+}
+
 right = \relative c' {
-  \global {
-    \tempo 4=140
-  }
+  \global
   % 1
   r2 c4   d |  e2 g2   |  g2 e2     |  f2 f2   |
   \break
@@ -39,7 +49,10 @@ acordes = \chordmode {
   s  | g,,  | s | c, |
 }
 
+
+% {
 \score {
+
   <<
     \context ChordNames="bass" {
       \acordes
@@ -57,7 +70,31 @@ acordes = \chordmode {
     %}
   >>
 
+  %{
+  \new PianoStaff <<
+    \new ChordNames { \acordes }
+    \new Staff = "right" \right
+  >>
+  %}
   \layout {}
   \midi {}
 }
+%}
 
+
+%{ Melhor compatíbilidade com piano-booster
+\score {
+  \new PianoStaff <<
+    \new Staff = "right" \with {
+      midiInstrument = "lead 1 (square)"
+    } \right
+    \new Staff = "left" \with {
+      midiInstrument = "lead 1 (square)"
+    } { \clef bass \acordes }
+  >>
+  \layout { }
+  \midi {
+    \tempo 4=90
+  }
+}
+% %}

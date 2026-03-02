@@ -1,4 +1,7 @@
 \version "2.19.21"
+\include "../header.ly"
+
+#(set-global-staff-size 20)
 
 #(define (glissando::calc-extra-dy grob)
    (let* ((original (ly:grob-original grob))

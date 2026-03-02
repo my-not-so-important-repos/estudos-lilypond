@@ -1,19 +1,16 @@
 \version "2.19.21"
-% \include "example-header.ily"
+\include "../header.ly"
 
 \include "predefined-guitar-fretboards.ly"
 
 % #(set-global-staff-size 17)
 
-global = {
-  \time 4/4
-  \key g \major
-  \partial 4
-  \numericTimeSignature
-}
-
 melody = \relative {
-  \global
+  \global {
+    \key g \major
+    \partial 4
+  }
+
   d'4
   g4 b8( a) g4 fis
   e e e e
@@ -22,7 +19,11 @@ melody = \relative {
 }
 
 harmonies = \chordmode {
-  \global
+  \global {
+    \key g \major
+    \partial 4
+  }
+
   s4 g1 | c | a:m | d   % 1-3
 }
 

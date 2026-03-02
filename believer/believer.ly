@@ -1,30 +1,8 @@
 \version "2.24.3"
-
-\layout {
-  indent = 0
-}
+\include "../header.ly"
 
 \header {
-  crossRefNumber = "1"
-  footnotes = ""
-  tagline = ##f
-  %"Lily was here 2.24.3 -- automatically converted from ABC"
   subtitle = "Believer - Imagine Dragons"
-  enteredby = "HeitorJr"
-}
-
-#(set-global-staff-size 30)
-\paper {
-  #(set-paper-size "a5landscape" )
-  %#(set-paper-size "a5" 'landscape )
-}
-
-global = {
-  \key c \major
-  \numericTimeSignature
-  \time 4/4
-  \tempo 4=125
-  \easyHeadsOn
 }
 
 tananaaam_finger = {
@@ -71,14 +49,14 @@ voicedefault =  {
 
 voice_bass =  {
   %\set Score.measureBarType = ""
-  \global
+  \global { \tempo 4=125 }
   \clef bass
   \repeat volta 2 {
     %\bar ".|:"
     a1 | a | f | e
     \break
     a1 | a | f | e
-    \break
+    %\break
   }
   a1
   \bar "|."
@@ -98,3 +76,4 @@ voice_bass =  {
   \layout {}
   \midi {}
 }
+
