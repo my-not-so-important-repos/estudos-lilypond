@@ -29,11 +29,6 @@ global = {
 }
 
 
-perc = \drums {
-  hihat4 hh bassdrum bd
-}
-
-
 right = {
   \global
 
