@@ -63,14 +63,15 @@ right = {
   a4. b |
   c'2.
   b2.
-  
+
+  %\unfoldRepeats
   \repeat volta 2 {
     % 25
     e'8 g'16 e'8.  e'8 g'16 e'8.  |
     a'4 g'8 d'8 c'4 |
     e'8 g'16 e'8.  e'8 g'16 e'8.
     \break
-  
+
     % 28
     a'4 g'8   d'8 c'8 c'16 d'16 |
     f'4. e'4. |
@@ -105,6 +106,7 @@ left = {
   a,2. a,2.
   \break
 
+  %\unfoldRepeats
   \repeat volta 2 {
      % 25
     \slurNeutral ( c2. | c2. )
