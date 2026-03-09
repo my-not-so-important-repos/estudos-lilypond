@@ -17,14 +17,13 @@
 
 
 \paper {
-  #(set-paper-size "a5landscape")
+  #(set-paper-size "a5" 'landscape)
 }
 
 
 global = {
   \key c \major
   \time 6/8
-  %\time 3/4
   \tempo 4.=55
   \easyHeadsOn
 }
@@ -67,26 +66,25 @@ right = {
   d'4 e'8 b4 c'8
   a2 r4 |
   a4. b |
-  c'2. s8
+  c'2.
   b2.
   
-  %{
-  % 25
-  g'8 d' c'4  e'8 g'16 e'8.
+  \repeat volta 2 {
+    % 25
+    e'8 g'16 e'8.  e'8 g'16 e'8.  |
+    a'4 g'8 d'8 c'4 |
+    e'8 g'16 e'8.  e'8 g'16 e'8.
+    \break
   
-  e'8 g' e' e' g'16 e'8. 
-  e'4.  e'8. |
-  e'8 e'8 e'8 e'8 |
-  e'16 e'16 e'8 e'8 e'16
-  \break
-  e'8 g'16 e'8.
-  e'8 g'16 e'8. s4
-
-  a'4 g'8 d' c'4 |
-  e'8 g'16 e'8. |
-  f'4. f'4.  |
-  g'2.
-  %}
+    % 28
+    a'4 g'8   d'8 c'8 c'16 d'16 |
+    f'4. e'4. |
+    a4 c'8 d'8 c'8 d'8 |
+    f'4. e'4.
+    g2.
+  }
+  c'2.
+  \bar "|."
 }
 
 left = {
@@ -110,16 +108,19 @@ left = {
   % 19
   a,2. | g,2. | \slurNeutral( <f, c>2.  <f, c>2. )
   a,2. a,2.
-  %\break
-  
-  %{
-  % 25
-  \slurNeutral ( c2. c2. ) a2. |
-  \slurNeutral ( c2. c2.)
-  
-  c2. 
-  %}
-  \bar "|."
+  \break
+
+  \repeat volta 2 {
+     % 25
+    \slurNeutral ( c2. | c2. )
+    \slurNeutral ( a,2. |
+    % 28
+    a,2. ) |
+
+    \slurNeutral ( <f, c>2. |  <f, c>2. )
+    \slurNeutral ( g,2. g,2. )
+  }
+  c2.
 }
 
 \score {
