@@ -30,6 +30,7 @@ voicedefault =  {
   %\set Score.measureBarType = ""
   \global
 
+  %\unfoldRepeats
   \repeat volta 2 {
     %\bar ".|:"
     \tananaaam_finger
@@ -51,6 +52,7 @@ voice_bass =  {
   %\set Score.measureBarType = ""
   \global { \tempo 4=125 }
   \clef bass
+  %\unfoldRepeats
   \repeat volta 2 {
     %\bar ".|:"
     a1 | a | f | e
@@ -67,7 +69,6 @@ voice_bass =  {
     \context Staff="default" {
       \voicedefault
     }
-    
     \context Staff="bass" {
       \voice_bass
     }
