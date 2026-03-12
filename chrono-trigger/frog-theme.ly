@@ -4,7 +4,7 @@
 
 
 \header {
-  subsubtitle = "Chrono Trigger :: Frog‘s Theme"
+  subtitle = "Chrono Trigger :: Frog‘s Theme"
   %composer = "Square Enix"
   enteredby = "HeitorJr"
   tagline = ##f
