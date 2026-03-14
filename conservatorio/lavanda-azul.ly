@@ -7,7 +7,7 @@
   tagline = ##f
 }
 
-#(set-global-staff-size 43)
+#(set-global-staff-size 44)
 
 \paper {
   %#(set-paper-size "a4" )

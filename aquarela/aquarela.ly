@@ -36,8 +36,7 @@ right = \relative c' {
   r4 c4 c d |  e2 g2   |  r4 g4 f e |  c2 f2   |
   \break
   % 13
-  r4 e4 e d |  d2 e2   |  r4 d4 d c |
-  c1
+  r4 e4 e d |  d2 e2   |  r4 d4 d c |  c1
   \bar "|."
 }
 
