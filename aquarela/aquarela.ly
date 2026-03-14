@@ -12,8 +12,8 @@
 
 #(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5landscape" )
-  %#(set-paper-size "a5" 'landscape )
+  %#(set-paper-size "a5landscape" )
+  #(set-paper-size "a5" 'landscape )
 }
 
 global = {
@@ -21,6 +21,7 @@ global = {
   \time 4/4
   \tempo 4=120
   \numericTimeSignature
+  \easyHeadsOn
 }
 
 right = \relative c' {

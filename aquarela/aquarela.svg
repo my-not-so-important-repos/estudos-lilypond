@@ -1,0 +1,854 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="148.00mm" viewBox="0.0000 -0.0000 68.2866 48.1258">
+<style type="text/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<g transform="translate(23.9784, 3.8098)">
+<text font-family="serif" font-weight="bold" font-size="1.9598" text-anchor="start" fill="currentColor">
+<tspan>Aquarela - Toquinho</tspan>
+</text>
+</g>
+<g transform="translate(2.2762, 13.7909)">
+<rect x="14.6936" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 12.7909)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 11.7909)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 10.7909)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 9.7909)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 8.7909)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(52.3503, 10.7909)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(39.0767, 10.7909)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(25.3388, 10.7909)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.8739, 10.7909)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:29:30">
+<g transform="translate(46.6827, 12.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(46.6827, 12.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(46.4388, 13.1027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(47.1719, 10.7909)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:47:18:19">
+<g transform="translate(53.6978, 8.2289)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:39:40">
+<g transform="translate(54.2337, 12.2909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(54.2337, 12.2909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(53.9898, 12.6027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(41.4493, 10.7909)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:26:27">
+<g transform="translate(40.9601, 11.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(40.9601, 11.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(40.6479, 12.1027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(60.6955, 10.7909)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:42:43">
+<g transform="translate(60.2063, 12.2909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(60.2063, 12.2909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(59.9624, 12.6027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(54.7229, 10.7909)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(22.2063, 10.7909)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<g transform="translate(18.2630, 10.7909)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:5:6">
+<g transform="translate(17.7737, 13.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(17.4908, 14.1027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:10:11">
+<g transform="translate(21.7171, 13.2909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(21.3952, 13.6027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:22:2:3">
+<g transform="translate(7.2762, 7.4529)">
+<rect x="1.0475" y="-2.6727" width="0.1158" height="2.4974" ry="0.0193" fill="currentColor"/>
+</g>
+<g transform="translate(7.2762, 7.4529)">
+<path transform="scale(0.0036, -0.0036)" d="M222 135c64 0 104 -35 104 -86c0 -89 -114 -184 -221 -184c-64 0 -105 35 -105 86c0 89 115 184 222 184z" fill="currentColor"/>
+</g>
+<g transform="translate(8.4396, 7.9330)">
+<text font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan> = 120</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:21:2:3">
+<g transform="translate(7.2762, 10.7909)">
+<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
+s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+</g>
+<g transform="translate(7.2762, 12.8069)">
+<path transform="scale(0.0040, -0.0040)" d="M-2 146c0 13 148 151 148 339c0 10 7 18 15 15c22 -7 44 -13 67 -13s45 6 67 13c12 4 21 -8 15 -15l-283 -333h173v147c0 32 34 24 65 67c11 15 18 32 25 49c4 9 20 7 20 -7v-256h68c9 0 13 -7 13 -14s-4 -13 -13 -13h-68v-16c0 -45 26 -88 68 -88c7 0 10 -5 10 -10
+s-3 -11 -10 -11c-41 0 -82 13 -123 13s-82 -13 -123 -13c-7 0 -10 6 -10 11s3 10 10 10c42 0 68 43 68 88v16h-173c-21 0 -29 13 -29 21z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:20:2:3">
+</a>
+<g transform="translate(3.0762, 11.7909)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:2:3">
+<g transform="translate(10.8371, 10.7909)">
+<path transform="scale(0.0040, -0.0040)" d="M367 0h-359c-4 0 -8 4 -8 8v140c0 4 4 8 8 8h359c4 0 8 -4 8 -8v-140c0 -4 -4 -8 -8 -8z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(33.9340, 10.7909)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:18:19">
+<g transform="translate(33.4448, 11.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(33.4448, 11.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(33.1326, 12.1027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(27.7114, 10.7909)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:30:15:16">
+<g transform="translate(27.2222, 12.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(27.2222, 12.7909)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(26.9783, 13.1027)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:47:7:8">
+<g transform="translate(26.6862, 8.2289)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(2.2762, 24.2904)">
+<rect x="12.6389" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(39.3711, 21.2904)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(24.1114, 21.2904)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.4165, 21.2904)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.8739, 21.2904)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 23.2904)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 22.2904)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 21.2904)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 20.2904)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 19.2904)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(48.5320, 21.2904)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:29:30">
+<g transform="translate(48.0428, 22.7904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(48.0428, 22.7904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(47.7989, 23.1021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(41.8533, 21.2904)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:26:27">
+<g transform="translate(41.3641, 22.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.3641, 22.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(41.0520, 22.6021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(33.5223, 21.2904)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:18:19">
+<g transform="translate(33.0331, 22.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(33.0331, 22.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(32.7210, 22.6021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:39:40">
+<g transform="translate(57.4095, 23.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(57.4095, 23.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(57.1656, 23.6021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(16.2082, 21.2904)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:5:6">
+<g transform="translate(15.7190, 24.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(15.4361, 24.6021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:2:3">
+<g transform="translate(8.0762, 21.2904)">
+<path transform="scale(0.0040, -0.0040)" d="M367 0h-359c-4 0 -8 4 -8 8v140c0 4 4 8 8 8h359c4 0 8 -4 8 -8v-140c0 -4 -4 -8 -8 -8z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(1.3007, 18.2370)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+</g>
+<g transform="translate(3.0762, 22.2904)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:48:7:8">
+<g transform="translate(25.5685, 18.7283)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(26.5937, 21.2904)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:15:16">
+<g transform="translate(26.1044, 23.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(26.1044, 23.2904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(25.8606, 23.6021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(20.5652, 21.2904)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:33:10:11">
+<g transform="translate(20.0760, 23.7904)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(19.7541, 24.1021)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(2.2762, 34.7898)">
+<rect x="51.5186" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 34.7898)">
+<rect x="12.9365" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 34.7898)">
+<rect x="9.1734" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 33.7898)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 32.7898)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 31.7898)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 30.7898)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 29.7898)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(36.2965, 31.7898)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(52.7630, 31.7898)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(23.2213, 31.7898)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.8739, 31.7898)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(42.2627, 31.7898)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:32:33">
+<g transform="translate(45.5366, 33.2898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(45.2927, 33.6015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(46.0258, 31.7898)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:34:35">
+<g transform="translate(49.2998, 33.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(49.0559, 34.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(49.7890, 31.7898)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:26:27">
+<g transform="translate(37.5962, 31.7898)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:29:30">
+<g transform="translate(41.7734, 32.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(41.4613, 33.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(61.0030, 31.7898)">
+<rect x="-0.0467" y="-2.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:42:43">
+<g transform="translate(60.5138, 33.2898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(60.5138, 33.2898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(60.2699, 33.6015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(55.0879, 31.7898)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:39:40">
+<g transform="translate(54.5987, 34.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(54.5987, 34.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(54.3158, 35.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:49:18:19">
+<g transform="translate(54.0628, 29.2277)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(3.0762, 32.7898)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<g transform="translate(20.2690, 31.7898)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:10:11">
+<g transform="translate(19.7798, 34.2898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(19.4579, 34.6015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(1.3007, 28.7346)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+</g>
+<g transform="translate(16.5058, 31.7898)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:8:9">
+<g transform="translate(16.0166, 34.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(15.7337, 35.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(12.7427, 31.7898)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:5:6">
+<g transform="translate(12.2535, 34.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(11.9706, 35.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:2:3">
+<g transform="translate(8.0762, 31.7898)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(31.4613, 31.7898)">
+<rect x="-0.0467" y="-2.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:18:19">
+<g transform="translate(30.9721, 32.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(30.9721, 32.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(30.6599, 33.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(25.5462, 31.7898)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:36:15:16">
+<g transform="translate(25.0570, 33.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(25.0570, 33.7898)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(24.8131, 34.1015)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:49:7:8">
+<g transform="translate(24.5210, 29.2277)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+<g transform="translate(26.1794, 28.0385)">
+<text font-family="sans-serif" font-size="1.8499" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(2.2762, 45.2892)">
+<rect x="54.6425" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 45.2892)">
+<rect x="48.1529" y="-0.0859" width="1.6078" height="0.1718" ry="0.0859" fill="currentColor"/>
+</g>
+<g transform="translate(24.0063, 42.2892)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.5794, 42.2892)">
+<rect x="0.0000" y="-2.0000" width="0.4310" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(65.2274, 42.2892)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(54.8350, 42.2892)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(37.5890, 42.2892)">
+<rect x="0.0000" y="-2.0000" width="0.1365" height="4.0000" ry="0.0000" fill="currentColor"/>
+</g>
+<g transform="translate(2.2762, 44.2892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 43.2892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 42.2892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 41.2892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(2.2762, 40.2892)">
+<line stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0718" stroke="currentColor" x1="0.0359" y1="0" x2="63.6983" y2="0"/>
+</g>
+<g transform="translate(47.7628, 42.2892)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:32:33">
+<g transform="translate(47.2736, 44.7892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(46.9516, 45.1009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(43.8034, 42.2892)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:29:30">
+<g transform="translate(43.3142, 44.7892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(42.9922, 45.1009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:34:35">
+<g transform="translate(51.2330, 45.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(50.9501, 45.6009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:26:27">
+<g transform="translate(38.9407, 42.2892)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(51.7222, 42.2892)">
+<rect x="-0.0467" y="-0.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:40:2:3">
+<g transform="translate(57.7226, 45.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(57.7226, 45.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(57.4397, 45.6009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:50:18:19">
+<g transform="translate(57.1867, 39.7271)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>C</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(16.8983, 42.2892)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:8:9">
+<g transform="translate(16.4091, 44.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(16.1652, 44.6009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<g transform="translate(12.9389, 42.2892)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:5:6">
+<g transform="translate(12.4497, 44.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(12.2058, 44.6009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:2:3">
+<g transform="translate(8.0762, 42.2892)">
+<path transform="scale(0.0040, -0.0040)" d="M-4 79c0 59 125 82 125 181c0 24 -8 47 -24 67l-39 46c-2 3 -3 6 -3 9c0 7 7 14 14 14c3 0 7 -1 10 -5l152 -182c7 -8 10 -17 10 -25c0 -59 -125 -82 -125 -181c0 -24 8 -47 24 -67l87 -104c2 -3 3 -5 3 -8c0 -7 -7 -14 -14 -14c-6 0 -48 48 -112 48
+c-14 0 -52 -1 -52 -70c0 -35 11 -75 28 -96c6 -7 -4 -16 -10 -9c-46 55 -93 150 -93 204c0 12 0 40 36 40c34 0 85 -15 130 -37l-137 164c-7 8 -10 17 -10 25z" fill="currentColor"/>
+</g>
+</a>
+<g transform="translate(0.3252, 39.2358)">
+<text font-family="serif" font-size="1.7462" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+</g>
+<g transform="translate(3.0762, 43.2892)">
+<path transform="scale(0.0040, -0.0040)" d="M264 -594c47 0 165 26 165 246c0 32 -2 64 -5 96c-5 -1 -44 -8 -89 -8c-193 0 -333 178 -333 372c0 178 133 306 251 440c-27 93 -49 170 -49 345c0 116 55 226 150 295c5 4 11 4 16 0c67 -81 132 -246 132 -359c0 -144 -87 -256 -183 -365c20 -69 39 -138 55 -208
+c2 0 7 1 15 1c154 0 254 -127 254 -259c0 -112 -73 -212 -180 -245c3 -36 5 -72 5 -108c0 -19 0 -37 -1 -56c-7 -120 -89 -226 -206 -226c-108 0 -195 87 -195 195c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95c-12 0 -24 4 -35 9c26 -41 70 -70 121 -70
+zM459 -205c71 24 117 92 117 166c0 92 -69 184 -179 193c1 -5 45 -212 62 -359zM71 31c0 -146 142 -251 267 -251c1 0 46 0 82 6c-7 63 -28 201 -64 367c-79 -9 -125 -62 -125 -121c0 -44 26 -92 82 -124c4 -4 7 -9 7 -14c0 -11 -9 -21 -20 -21c-14 0 -125 62 -125 186
+c0 88 57 173 158 196c-14 60 -30 119 -46 178c-108 -121 -216 -242 -216 -402zM411 1050c-99 -50 -161 -151 -161 -262c0 -59 11 -123 33 -200c82 97 149 198 149 325c0 35 0 69 -21 137z" fill="currentColor"/>
+</g>
+<g transform="translate(32.3831, 42.2892)">
+<rect x="-0.0467" y="-1.5000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:18:19">
+<g transform="translate(31.8939, 44.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(31.8939, 44.2892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(31.6500, 44.6009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(26.3831, 42.2892)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.2331" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:10:11">
+<g transform="translate(20.3685, 44.7892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(20.0466, 45.1009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</g>
+</a>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:50:7:8">
+<g transform="translate(25.3580, 39.7271)">
+<text font-family="sans-serif" font-size="2.6164" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+</g>
+</a>
+<g transform="translate(20.8577, 42.2892)">
+<rect x="-0.0467" y="-1.0000" width="0.0934" height="3.3044" ry="0.0229" fill="currentColor"/>
+</g>
+<a style="color:inherit;" xlink:href="textedit:///home/kubuntu/Music/estudos-lilypond/aquarela/aquarela.ly:39:15:16">
+<g transform="translate(25.8939, 44.7892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.5359"/>
+</g>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<g transform="translate(25.8939, 44.7892)">
+<circle stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0" r="0.4425"/>
+</g>
+</g>
+<g transform="translate(25.5720, 45.1009)">
+<text font-family="sans-serif" font-weight="bold" font-size="0.8734" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+</g>
+</a>
+</svg>
