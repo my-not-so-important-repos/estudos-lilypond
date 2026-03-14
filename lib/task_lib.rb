@@ -11,8 +11,6 @@ def para_cada_arquivo (glob = '*.ly')
   files.each do |filename|
     if block_given?
       yield(filename)
-    else
-      raise NotImplementedError
     end
   end
 end
