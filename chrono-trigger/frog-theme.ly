@@ -19,7 +19,7 @@
 right = {
   \global {
     \tempo 4=126
-    \easyHeadsOff
+    %\easyHeadsOff
   }
   % Music follows here.
   \tuplet 3/2 { a'8-3 g' a'} e'4 a'4    \tuplet 3/2 {  b'4  c''8 }   |
