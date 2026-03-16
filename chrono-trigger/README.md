@@ -6,3 +6,6 @@
 
 ![Peaceful days](peaceful-days.svg)
 
+![Secref of Forest](chrono-trigger-secret-of-the-forest-1.svg)
+
+
