@@ -18,11 +18,11 @@
       \with { instrumentName = "Réc" }
       \relative {
         \global
-        \tempo 4 = 74
+        \tempo 4 = 120
         \time 4/4
         \key df \major
 
-        \repeat volta 8 { bf'16 ef f bf }
+        \repeat volta 8 { bf'8 ef f bf }
         \repeat volta 8 { c, ef g af }
         \repeat volta 8 { bf, ef f bf }
         \repeat volta 8 { c, ef g af }
@@ -38,7 +38,7 @@
         \repeat volta 4 { c, ef g af }
 
         % m24
-        f,,32 g af c
+        f,,16 g af c
         ef f g af
         f g af c
         ef f g af
@@ -48,7 +48,7 @@
         g f c af
 
         % m25
-        \repeat volta 2 { f'16 gf bf df f df bf gf }
+        \repeat volta 2 { f'8 gf bf df f df bf gf }
         \repeat volta 2 { f gf a df f df a gf }
 
         % m27

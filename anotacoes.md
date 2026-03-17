@@ -8,18 +8,18 @@ O programa SoX consegue gerar a partir de um arquivo wav.
 
     sox input.wav -n spectrogram -o output.png -t "Espectrograma" -c "Gerado com SoX" -z 120
 
-Não vi a qualidade deste último.
-Não posso dizer se é melhor ou mais conveniente do que o gerado pelo ffmpeg.
-Aconteceu um erro ao tentar executar o comando.
-Pode ser um problema com o SO ou sintaxe errada.
 
-
-O comando abaixo:
 
     play input.wav sinc -n spectrogram
 
 promete gerar dinamicamente o gráfico com o spectrograma.
 pode ser útil para analisar em tempo real o que está saindo no teclado.
+
+---
+
+Cancelamento de ruido:
+
+O comando abaixo vai setar o volume para -1, ou seja, inverter a polaridade da onda.
 
     sox -m input1.wav -v -1 input2.wav diff.wav
 
@@ -32,7 +32,7 @@ Precisa investigar como selecionar a origem, no caso de existir mais de 1.
 
 
 
-Here are the most common Linux commands to record audio from your audio interface:
+Linux commands to record from audio interface:
 
 ## 1. **Using `arecord` (ALSA - Easiest)**
 The simplest method:
