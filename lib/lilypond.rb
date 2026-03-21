@@ -20,7 +20,7 @@ module Rouge
       # Builtin word lists (trimmed for brevity – paste the full lists
       # from _lilypond_builtins.py converted to Ruby arrays)
       # ---------------------------------------------------------------
-      KEYWOORDS = %w[
+      KEYWORDS = %w[
         accepts addlyrics alias book bookpart chordmode chords consists
         context defaultchild denies description drummode drums etc
         figuremode figures header include inherit-acceptability language
@@ -44,7 +44,7 @@ module Rouge
         mensural-f5 mensural-g mensural-g1 mensural-g2 mezzosoprano
         moderntab neomensural-c1 neomensural-c2 neomensural-c3
         neomensural-c4 neomensural-c5 percussion petrucci-c1 petrucci-c2
-         petrucci-c3 petrucci-c4 petrucci-c5 petrucci-f petrucci-f2
+        petrucci-c3 petrucci-c4 petrucci-c5 petrucci-f petrucci-f2
         petrucci-f3 petrucci-f4 petrucci-f5 petrucci-g petrucci-g1
         petrucci-g2 soprano subbass tab tenor tenorG tenorvarC treble
         varC varbaritone varpercussion vaticana-do1 vaticana-do2
@@ -57,6 +57,8 @@ module Rouge
 
       REPEAT_TYPES = %w[
         percent segno tremolo 4e very large lists.
+      ]
+
       # Below are representative subsets; fill them in from the source.
 
       PITCHES = %w[
@@ -73,7 +75,7 @@ module Rouge
       ARTICULATIONS = %w[].freeze
       # ... (paste from _lilypond_builtins.py articulations)
 
-       MUSIC_COMMANDS = %w[].freeze
+      MUSIC_COMMANDS = %w[].freeze
       # ... (paste from _lilypond_builtins.py music_commands)
 
       MARKUP_COMMANDS = %w[].freeze
@@ -117,6 +119,9 @@ module Rouge
         /#{prefix}(?:#{Regexp.union(names)})#{suffix}/
       end
 
+      UNITS = []
+      CHORD_MODIFIERS = []
+
       # Pre-build regexes for builtins
       KEYWORDS_RE            = builtin_words(KEYWORDS, :mandattory)
       PITCH_LANGUAGE_RE      = builtin_words(PITCH_LANGUAGE_NAMES, :disallowed)
@@ -125,14 +130,14 @@ module Rouge
       REPEAT_TYPES_RE        = builtin_words(REPEAT_TYPES, :disallowed)
       UNITS_RE               = builtin_words(UNITS, :mandatory)
       CHORD_MODIFIERS_RE     = builtin_words(CHORD_MODIFIERS, :disallowed)
-      PITCHES_RE             = Regexp.new("(?:#{Regexp.union(PITCHES)})=?[[',]*!?\\??#{NAME_END_RE}")
+      PITCHES_RE             = Regexp.new("(?:#{Regexp.union(PITCHES)})=?[',]*!?\\??#{NAME_END_RE}")
       MUSIC_FUNCTIONS_RE     = builtin_words(MUSIC_FUNCTIONS, :mandatory)
       DYNAMICS_RE            = builtin_words(DYNAMICS, :mandatory)
       ARTICULATIONS_RE       = builtin_words(ARTICULATIONS, :mandatory)
       MUSIC_COMMANDS_RE      = builtin_words(MUSIC_COMMANDS, :mandatory)
       MARKUP_COMMANDS_RE     = builtin_words(MARKUP_COMMANDS, :mandatory)
       GROBS_RE               = builtin_words(GROBS, :disallowed)
-      TRANSLATORS_RE         = builtin_words(TRAANSLATORS, :disallowed)
+      TRANSLATORS_RE         = builtin_words(TRANSLATORS, :disallowed)
       CONTEXTS_RE            = builtin_words(CONTEXTS, :optional)
       CONTEXT_PROPERTIES_RE  = builtin_words(CONTEXT_PROPERTIES, :disallowed)
       GROB_PROPERTIES_RE     = builtin_words(GROB_PROPERTIES, :disallowed)
@@ -202,7 +207,7 @@ module Rouge
         rule REPEAT_TYPES_RE,       Name::Builtin
         rule UNITS_RE,              Num
         rule CHORD_MODIFIERS_RE,    Name::Constant         # chord modifier
-        rule  MUSIC_FUNCTIONS_RE,    Name::Builtin
+        rule MUSIC_FUNCTIONS_RE,    Name::Builtin
         rule DYNAMICS_RE,           Name::Builtin
         rule ARTICULATIONS_RE,      Name::Builtin
         rule MUSIC_COMMANDS_RE,     Name::Builtin
