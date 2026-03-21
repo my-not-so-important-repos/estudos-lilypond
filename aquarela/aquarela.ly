@@ -24,35 +24,25 @@ global = {
   \easyHeadsOn
 }
 
-right = \relative c' {
-  \global
-  % 1
-  r2 c4   d |  e2 g2   |  g2 e2     |  f2 f2   |
-  \break
-  % 5
-  r2 c4   d |  e2 g2   |  g2 f2     |  e1      |
-  \break
-  % 9
-  r4 c4 c d |  e2 g2   |  r4 g4 f e |  c2 f2   |
-  \break
-  % 13
-  r4 e4 e d |  d2 e2   |  r4 d4 d c |  c1
-  \bar "|."
+
+right = {
+  r4   g'8  g'  c''  c''4  b'8  |
+  a'4  g'8  g'  c''  c''4  b'8  |
+  a'4  g'8  g'  a'4    a'|
+  a'1  |
 }
 
-acordes = \chordmode {
-  \global
 
-  s1 | c,   | s | f, |
-  s  | c,   | s | s  |
-  s  | c,:7 | s | f, |
-  s  | g,,  | s | c, |
+acordes = \chordmode {
+  c1  | e:m | f | g |  \break
+  c1  | e:m | f | g |  \break
+  e:m | g   | f | g |  \break
+  c   | e:m | f | g |  \break
 }
 
 
 % {
 \score {
-
   <<
     \context ChordNames="bass" {
       \acordes
@@ -62,39 +52,8 @@ acordes = \chordmode {
       \clef treble
       \right
     }
-    %{
-    \context Staff="bass2" {
-      \clef bass
-      \acordes
-    }
-    %}
   >>
-
-  %{
-  \new PianoStaff <<
-    \new ChordNames { \acordes }
-    \new Staff = "right" \right
-  >>
-  %}
   \layout {}
   \midi {}
 }
 %}
-
-
-%{ Melhor compatíbilidade com piano-booster
-\score {
-  \new PianoStaff <<
-    \new Staff = "right" \with {
-      midiInstrument = "lead 1 (square)"
-    } \right
-    \new Staff = "left" \with {
-      midiInstrument = "lead 1 (square)"
-    } { \clef bass \acordes }
-  >>
-  \layout { }
-  \midi {
-    \tempo 4=90
-  }
-}
-% %}
