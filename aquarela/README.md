@@ -1,1 +1,1 @@
-![partitura da música Aquarela](aquarela.svg)
+![Acessibilidade: partitura de Aquarela](aquarela.svg)

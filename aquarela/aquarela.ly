@@ -40,8 +40,6 @@ acordes = \chordmode {
   c   | e:m | f | g |  \break
 }
 
-
-% {
 \score {
   <<
     \context ChordNames="bass" {
@@ -56,4 +54,3 @@ acordes = \chordmode {
   \layout {}
   \midi {}
 }
-%}
