@@ -5,7 +5,7 @@
 %}
 
 \version "2.24.3"
-%\language "portugues"
+\language "english"
 
 \header {
   subsubtitle = "Death Come Near Me - Draconian"
@@ -33,16 +33,16 @@ intervalo = {
 
 
 intro = \relative c'' {
-  d4 ees d c  d4 ees d1
+  d4 e-flat d c  d4 e-flat d1
   
-  f4 ees d c
-  bes4 a bes c
-  bes4 a g f4 ees2
+  f4 e-flat d c
+  b-flat4 a b-flat c
+  b-flat4 a g f4 e-flat2
 }
 
 
 solinhoFinal = \relative c'' {
-  d4 ees c d2 c bes 
+  d4 ef c d2 b-flat
   \intervalo
 }
 
@@ -50,7 +50,7 @@ solinhoFinal = \relative c'' {
 tudo = {
   \global
   \intro
-  \intervalo
+  \bar "||"
   \solinhoFinal
 }
 
@@ -60,5 +60,6 @@ tudo = {
   <<
     \tudo
   >>
-  \layout { }
+  \layout {}
+  \midi {}
 }
