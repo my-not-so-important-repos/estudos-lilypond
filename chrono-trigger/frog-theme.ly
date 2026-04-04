@@ -5,14 +5,14 @@
 
 \header {
   subtitle = "Chrono Trigger :: Frog Theme"
-  %composer = "Square Enix"
+  composer = "Yasunori Mitsuda"
   enteredby = "HeitorJr"
   tagline = ##f
 }
 
 \paper {
-  #(set-paper-size "a5" 'landscape)
-  %#(set-paper-size "a5landscape")
+  %#(set-paper-size "a5" 'landscape)
+  #(set-paper-size "a5landscape")
 }
 
 
@@ -44,7 +44,7 @@ right = {
   \tuplet 3/2 {c''-1 d'' e''} \tuplet 3/2 {d'' e'' g''}
   \break
 
-  \tuplet 3/2 {e''4-3 e''8} \tuplet 3/2 {e''8    c''  d''}  e''4-1 a'' |
+  e''8-3 e''8 \tuplet 3/2 {e''8    c''  d''}  e''4-1 a'' |
   b''4    (  \tuplet 3/2 {b''8 )  c''' b''}  a''4   g'' |
   a''1 |
   \break
@@ -89,7 +89,7 @@ left = {
   
   <e g c'>4 <e g c'> <e g c'> <e g c'> |
   <f a c'>4 <f a c'> <f a c'> <f a c'> |
-  <g b d'>4 <g b d'> <g b d'> <g b d'> |
+  <g b d'>4 <g b d'> \tuplet 3/2 {  r8 <g b d'> r } <g b d'>4 |
   \break
   
   <a c' e'>4 <a c' e'> <a c' e'> <a c' e'>
@@ -97,7 +97,7 @@ left = {
   <f a c'>4 <f a c'> <f a c'> <f a c'>
   \break
   
-  <e a b>4 <e a b> <e gs b> <e gs b>
+  <e a b>4 <e a b> \tuplet 3/2 { r8 <e gs b> r } <e gs b>4
   \bar "||"
   f4 <f a c'> g <g b d'> |
   f4 <f a c'> a <a b e'>
