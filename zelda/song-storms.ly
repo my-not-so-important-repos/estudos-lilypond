@@ -2,14 +2,12 @@
 \include "../header.ly"
 \language "english"
 
+#(set-global-staff-size 37)
 \header {
-  subtitle = "Song of Storms :: Zelda OoT"
-  %{
-
-  subsubtitle = "Zelda: Ocarina of Time"
+  subsubtitle = "Song of Storms :: Zelda OoT"
+  
   composer = "c: Koji Kondo"
   arranger = "a: Shinobu Amayake"
-  %}
   enteredby = "HeitorJr"
 }
 
@@ -19,7 +17,7 @@ voicedefault = {
     \time 3/4
     \tempo 4=160
   }
-
+  
   r4
   <f' a'>4-2-4
   <f' a'>4
@@ -49,19 +47,19 @@ voicedefault = {
   r4
   <a' c''>
   <a' c''>
-
+  
   r8
   e'
   <g' b'>2
-
+  
   %\unfoldRepeats
   \repeat volta 2 {
     %\bar ".|:"
     d'8-1 f'-2  d''2-5
     d'8   f'8    d''2
-
-
-
+    
+    
+    
     e''4-4
     r4
     %e''4
@@ -73,18 +71,18 @@ voicedefault = {
     e''8-4
     c''8-2
     a'2-1
-
+    
     a'4-5
     d'-1
     f'8
     g'
-
+    
     a'2.
-
+    
     a'4
     d'
     f'8 g'
-
+    
     <c' e'>2.
   }
   
