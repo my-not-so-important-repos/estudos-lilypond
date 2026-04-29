@@ -1,6 +1,7 @@
 \version "2.24.3"
 \include "../header.ly"
 
+custom-tuning = \stringTuning <e a, d g b e'>
 \header {
   title = "Twilight Innocence"
   composer = "Novembers Doom"
@@ -46,6 +47,7 @@ upper= {
       }
     >>
     \new TabStaff = "tab" <<
+      \set TabStaff.stringTunings = #custom-tuning
       \context TabVoice = "upper tab" { \clef "moderntab" \voiceOne \upper }
     >>
   >>
