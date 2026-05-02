@@ -2,9 +2,7 @@
 Minhas partituras.
 
 
-### Conservatório Ernesto Nazareth
-
-#### Beginner friendly
+### Conservatório de música Ernesto Nazareth
 
 - [As flores nascem em maio](as-flores-nascem-em-maio)
 - [Asa Branca](asa-branca)
@@ -14,6 +12,8 @@ Minhas partituras.
 - [Ode to Joy](ode-to-joy)
 - [preludio]
 - [Lavanda Azul]
+- [Thousand Years](thousand-years)
+
 
 ### Doom
 
@@ -23,6 +23,7 @@ Minhas partituras.
 - [Novembers Doom](novembers-doom)
   - Twilight Innocence (intro guitar tab)
 
+
 ### Video Games
 
 - [Chrono Trigger](chrono-trigger)
@@ -30,3 +31,12 @@ Minhas partituras.
   - Frog's Theme
   - Premonition
   - Peaceful Days
+
+- [Zelda Ocarina of Time](zelda)
+  - Song of Storms
+
+
+### Outros
+
+- [Netflix's Ostinato](ostinato)
+
