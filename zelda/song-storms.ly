@@ -4,8 +4,9 @@
 
 #(set-global-staff-size 37)
 \header {
-  subsubtitle = "Song of Storms :: Zelda OoT"
-  
+  title = "Song of Storms"
+  subsubtitle = "Zelda OoT"
+
   composer = "c: Koji Kondo"
   arranger = "a: Shinobu Amayake"
   enteredby = "HeitorJr"
@@ -17,26 +18,26 @@ voicedefault = {
     \time 3/4
     \tempo 4=160
   }
-  
+
   r4
-  <f' a'>4-2-4
-  <f' a'>4
+  <f' a'>4-.-2-4
+  <f' a'>4-.
   |
   r8
   e'-1
   <g' b'>2-3-5
   |
   r4
-  <a' c''>-3-5
-  <a' c''>
+  <a' c''>-.-3-5
+  <a' c''>-.
   |
   r8
   e'-1
   <g' b'>2-3-5
   |
   r4
-  <f' a'>
-  <f' a'>
+  <f' a'>-.
+  <f' a'>-.
   |
   \break
 
@@ -45,21 +46,24 @@ voicedefault = {
   <g' b'>2
   |  
   r4
-  <a' c''>
-  <a' c''>
-  
+  <a' c''>-.
+  <a' c''>-.
+
   r8
   e'
   <g' b'>2
-  
+
+  \mark \markup { \musicglyph #"scripts.segno" }
+  %\mark \segno
+
   %\unfoldRepeats
   \repeat volta 2 {
     %\bar ".|:"
     d'8-1 f'-2  d''2-5
     d'8   f'8    d''2
-    
-    
-    
+
+
+
     e''4-4
     r4
     %e''4
@@ -71,24 +75,32 @@ voicedefault = {
     e''8-4
     c''8-2
     a'2-1
-    
+
     a'4-5
     d'-1
     f'8
     g'
-    
+
+
+
+
+    % 1 ----------
+
     a'2.
-    
+
     a'4
     d'
     f'8 g'
-    
+
+
+
+
     <c' e'>2.
   }
-  
+
   <cs' a'>2-1-5
   a'4
-  
+
   d'2.
   r r
   \break
@@ -105,78 +117,78 @@ voice_bass =  {
   }
   \clef bass
   d2.-5
-  d d d d
+  e f e d
   \break
-  
-  d2.-5
-  d d
+
+  e2.-5
+  f e
   |
-  
-  
-  
+
+
+
   %\unfoldRepeats
   \repeat volta 2 {
     %d2.
     %r4
     d4
-    <f a>
-    <f a>
+    <f a>-.-3-1
+    <f a>-.
 
     e4
-    <g b>2
+    <g b>2-3-1
     %<g b>
     \break
 
     f4
-    <a c'>-2-1
-    <a c'>
+    <a c'>-.-2-1
+    <a c'>-.
 
     e4
     <g b>2-3-1
 
     bs,4
-    <d f>-3-1
-    <d f>
+    <d f>-.-3-1
+    <d f>-.
 
     f,4
     c2-1
 
     bs,4
-    <d f>-3-1
-    <d f>
+    <d f>-.-3-1
+    <d f>-.
     \break
 
     a,4-5 e2-1
   }  
-    
-    
-    
+
+
+
   a,4-5 e2-1
   
   d4-5
-  <f a>4-3-1
-  <f a>4
+  <f a>4-.-3-1
+  <f a>4-.
   
   
   e4-5 <g b>2-1
   
   f4-4
-  <a c'>4-2-1
-  <a c'>4
+  <a c'>4-.-2-1
+  <a c'>4-.
   
   \break
   
   e4-5  < g b> 2-3-1
   
   d4
-  <f a>-3-1
-  <f a>-3-1
+  <f a>-.-3-1
+  <f a>-.-3-1
   
   e4 <g b>2-3-1
   
   f4
-  <a c'>-2-1
-  <a c'>
+  <a c'>-.-2-1
+  <a c'>-.
 
   e4
 
