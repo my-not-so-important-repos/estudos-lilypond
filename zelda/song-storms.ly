@@ -66,8 +66,6 @@ voicedefault = {
 
     e''4-4
     r4
-    %e''4
-    %r8 
     \tuplet 3/2 {
       f''8 e''8 f''8
     }
@@ -95,7 +93,7 @@ voicedefault = {
 
 
 
-    <c' e'>2.
+    <cs' e'>2.
   }
 
   <cs' a'>2-1-5
@@ -158,7 +156,8 @@ voice_bass =  {
     <d f>-.
     \break
 
-    a,4-5 e2-1
+    a,4->-5
+    e2-1
   }  
 
 
