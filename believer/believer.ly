@@ -3,6 +3,7 @@
 
 \header {
   subtitle = "Believer - Imagine Dragons"
+  enteredby = "HeitorJr"
 }
 
 tananaaam_finger = {
