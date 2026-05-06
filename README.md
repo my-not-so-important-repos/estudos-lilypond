@@ -34,6 +34,7 @@ Minhas partituras.
 
 - [Zelda Ocarina of Time](zelda)
   - Song of Storms
+  - Lost Woods
 
 
 ### Outros
