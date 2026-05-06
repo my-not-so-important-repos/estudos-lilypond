@@ -15,7 +15,7 @@ upper= {
   \time 4/4
   \tempo 4=120
   %\key e \major
-  \set Staff.midiInstrument = "acoustic guitar (steel)"
+  \set Staff.midiInstrument = "acoustic guitar (nylon)"
 
   %\unfoldRepeats
   \repeat volta 2 {
