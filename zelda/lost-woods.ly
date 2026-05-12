@@ -16,6 +16,7 @@
 #(set-global-staff-size 24)
 
 \paper {
+  #(set-paper-size "a5" 'landscape)
   #(set-paper-size "a5landscape")
 }
 
@@ -136,9 +137,9 @@ rightOne = {
   c''8(
   b'-.)
   e'4(
-  
+
   e'2)
-  
+
   <d' f'>8-2-4\<(
   <c' e'>8-.-1-3)
   <e' g'>8-2-4(
@@ -149,11 +150,25 @@ rightOne = {
   <a' c''>8-2-4
   <g' b'>8-1-3
   \break
-  <g' b'>8-2-4
-  <f' a'>8-1-3
+  <b' d''>8-2-4
+  <a' c''>8-1-3
   <c'' e''>-2-4
-  <g' b'>-1-3
+  <b' d''>-1-3
   \!
+
+  <d'' f''>8
+  <c'' e''>8
+
+  e''16[
+  f''
+  r16
+  d'']
+
+  <b' e''>2-1-3(
+  <b' e''>2)
+
+  r2
+  r4 e''-.-5
 }
 
 rightTwo = {
