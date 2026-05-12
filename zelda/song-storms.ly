@@ -12,6 +12,12 @@
   enteredby = "HeitorJr"
 }
 
+\paper {
+  %#(set-paper-size "a4" )
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a4" 'landscape )
+}
+
 voicedefault = {
   %\set Score.measureBarType = ""
   \global {
@@ -19,41 +25,26 @@ voicedefault = {
     \tempo 4=160
   }
 
-  r4
-  <f' a'>4-.-2-4
-  <f' a'>4-.
-  |
-  r8
-  e'-1
-  <g' b'>2-3-5
-  |
-  r4
-  <a' c''>-.-3-5
-  <a' c''>-.
-  |
-  r8
-  e'-1
-  <g' b'>2-3-5
-  |
-  r4
-  <f' a'>-.
-  <f' a'>-.
-  |
+  \repeat volta 2 {
+    r4
+    <f' a'>4-.-2-4
+    <f' a'>4-.
+    |
+    r8
+    e'-1
+    <g' b'>2-3-5
+    |
+    r4
+    <a' c''>-.-3-5
+    <a' c''>-.
+    |
+    r8
+    e'-1
+    <g' b'>2-3-5
+  }
   \break
 
-  r8
-  e'
-  <g' b'>2
-  |  
-  r4
-  <a' c''>-.
-  <a' c''>-.
-
-  r8
-  e'
-  <g' b'>2
-
-  \mark \markup { \musicglyph #"scripts.segno" }
+  %\mark \markup { \musicglyph #"scripts.segno" }
   %\mark \segno
 
   %\unfoldRepeats
@@ -61,8 +52,6 @@ voicedefault = {
     %\bar ".|:"
     d'8-1 f'-2  d''2-5
     d'8   f'8    d''2
-
-
 
     e''4-4
     r4
@@ -79,9 +68,6 @@ voicedefault = {
     f'8
     g'
 
-
-
-
     % 1 ----------
 
     a'2.
@@ -89,9 +75,6 @@ voicedefault = {
     a'4
     d'
     f'8 g'
-
-
-
 
     <cs' e'>2.
   }
@@ -114,15 +97,11 @@ voice_bass =  {
     \tempo 4=160
   }
   \clef bass
-  d2.-5
-  e f e d
+  \repeat volta 2 {
+    d2.-5
+    e f e
+  }
   \break
-
-  e2.-5
-  f e
-  |
-
-
 
   %\unfoldRepeats
   \repeat volta 2 {
@@ -134,8 +113,6 @@ voice_bass =  {
 
     e4
     <g b>2-3-1
-    %<g b>
-    \break
 
     f4
     <a c'>-.-2-1
@@ -144,21 +121,21 @@ voice_bass =  {
     e4
     <g b>2-3-1
 
-    bs,4
+    bf,4
     <d f>-.-3-1
     <d f>-.
 
     f,4
     c2-1
 
-    bs,4
+    bf,4
     <d f>-.-3-1
     <d f>-.
     \break
 
     a,4->-5
     e2-1
-  }  
+  }
 
 
 
@@ -167,24 +144,24 @@ voice_bass =  {
   d4-5
   <f a>4-.-3-1
   <f a>4-.
-  
-  
+
+
   e4-5 <g b>2-1
-  
+
   f4-4
   <a c'>4-.-2-1
   <a c'>4-.
-  
+
   \break
-  
+
   e4-5  < g b> 2-3-1
-  
+
   d4
   <f a>-.-3-1
   <f a>-.-3-1
-  
+
   e4 <g b>2-3-1
-  
+
   f4
   <a c'>-.-2-1
   <a c'>-.

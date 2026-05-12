@@ -6,6 +6,7 @@
 \header {
   title = "Boss Battle"
   subtitle = "Chrono Trigger"
+  composer = "Yasunory Mitsuda"
 }
 
 {
