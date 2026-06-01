@@ -20,6 +20,7 @@ Minhas partituras.
 - [Draconian](draconian)
   - [Death Come Near Me](draconian/death-come-near-me)
   - [Cry of Silence](draconian/cry-of-silence)
+  - [Sleepwalkers](draconian/sleepwalkers.ly)
 - [Novembers Doom](novembers-doom)
   - Twilight Innocence (intro guitar tab)
 
