@@ -1,6 +1,13 @@
 \version "2.24.3"
 \include "../header.ly"
 
+#(set-global-staff-size 40)
+
+\paper {
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
+}
+
 \header {
   
   title = "Sleepwalkers"
@@ -28,7 +35,7 @@ voicedefault = {
   \repeat volta 2 {
     r1 r r r
   }
-  <g c' ees'>1(
+  <g c' ees'>1\arpeggio(
   <g c' ees'>1)
   %\break
   r1
@@ -59,7 +66,14 @@ voicedefault = {
   r4.
   ees'8
   
-  %\break
+  <g d'>4
+  <c' ees'>2.
+  
+  <c' d'>4
+  <c' ees'>2.
+  r2 f'4 ees'8 d'(
+  d'4) ees'2.
+  \break
 }
 
 
@@ -78,7 +92,7 @@ voice_bass =  {
   }
   
   \unfoldRepeats
-  \repeat volta 5 {
+  \repeat volta 6 {
     \voice_intro_bass
     \break
   }
