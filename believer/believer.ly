@@ -6,25 +6,15 @@
   enteredby = "HeitorJr"
 }
 
-tananaaam_finger = {
+voice_a_finger = {
   a'4-1  e''  d''
 }
 
-tananaaam = {
+voice_a = {
   a'4  e''  d''
 }
 
-descida_finger = {
-  d''8[    c'']
-  %\bar "|"
-  d''4    d''8[    e'']    d''[    c''    a'8-1    g'-2] |
-}
 
-descida = {
-  d''8[    c'']
-  %\bar "|"
-  d''4    d''8[    e'']    d''[    c''    a'8    g'] |
-}
 
 
 voicedefault =  {
@@ -33,11 +23,22 @@ voicedefault =  {
 
   %\unfoldRepeats
   \repeat volta 2 {
-    %\bar ".|:"
-    \tananaaam_finger
-    \descida_finger
-    \tananaaam_finger
-    \descida
+
+    \voice_a_finger
+
+    % descida_finger = {
+      d''8[    c'']
+      d''4    d''8[    e'']    d''[    c''    a'8-1    g'-2] |
+      \break
+    % }
+
+    \voice_a
+
+    % descida {
+      d''8[    c'']
+      d''4    d''8[    e'']    d''[    c''    a'8    g'] |
+    % }
+
     \break
 
     a'4 c'' a''2-5 | e''4.-5 e''8 d'' c'' a' g' |
@@ -55,11 +56,9 @@ voice_bass =  {
   \clef bass
   %\unfoldRepeats
   \repeat volta 2 {
-    %\bar ".|:"
     a1 | a | f | e
     \break
     a1 | a | f | e
-    %\break
   }
   a1
   \bar "|."
