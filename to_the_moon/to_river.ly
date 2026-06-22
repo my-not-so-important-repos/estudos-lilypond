@@ -3,7 +3,7 @@
 
 #(set-global-staff-size 30)
 \header {
-  subtitle = "For River"
+  subtitle = "To River"
   composer = "Johnny H. Wyles"
   enteredby = "HeitorJr"
 }
