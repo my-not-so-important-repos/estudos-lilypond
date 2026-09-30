@@ -1,9 +1,15 @@
 \version "2.24.3"
 \include "../header.ly"
 
-custom-tuning = \stringTuning <e a, d g b e'>
+% https://lilypond.org/doc/v2.23/Documentation/notation/common-notation-for-fretted-strings
+
+custom-tuning = \stringTuning <e,,  a,, d,, g, b, e'>
+%custom-tuning = \stringTuning <c, f, aes, des, g, c>
+
+%#(define standard-c-tuning (string-tuning '(c f bes ees g c)))
+
 \header {
-  title = "Twilight Innocence"
+  title = "I hurt those I adore"
   composer = "Novembers Doom"
 }
 
@@ -18,7 +24,7 @@ upper= {
   \global
   \numericTimeSignature
   \time 4/4
-  \tempo 4=120
+  \tempo 4=185
   %\key e \major
   \set Staff.midiInstrument = "acoustic guitar (nylon)"
 
@@ -51,11 +57,9 @@ upper= {
         \upper
       }
     >>
-    \new TabStaff
-     % \tabFullNotation
-     % \symbols
-     <<
+    \new TabStaff = "tab" <<
       \set TabStaff.stringTunings = #custom-tuning
+      %\set TabStaff.stringTunings =  standard-c-tuning
       \context TabVoice = "upper tab" { \clef "moderntab" \voiceOne \upper }
     >>
   >>
