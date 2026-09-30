@@ -1,10 +1,37 @@
 \version "2.24.3"
-\include "../header.ly"
+
+% \include "../header.ly"
+
+
+
+\layout {
+  indent = 0
+}
 
 \header {
   subtitle = "Believer - Imagine Dragons"
   enteredby = "HeitorJr"
+  %crossRefNumber = "1"
+  %footnotes = ""
+  tagline = ##f
 }
+
+#(set-global-staff-size 35)
+
+\paper {
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
+}
+
+global = {
+  \key c \major
+  \numericTimeSignature
+  \time 4/4
+  \tempo 4=125
+  \easyHeadsOn
+}
+
+% --------------------------------
 
 voice_a_finger = {
   a'4-1  e''  d''
@@ -14,10 +41,7 @@ voice_a = {
   a'4  e''  d''
 }
 
-
-
-
-voicedefault =  {
+voicedefault = {
   %\set Score.measureBarType = ""
   \global
 
@@ -52,7 +76,7 @@ voicedefault =  {
 
 voice_bass =  {
   %\set Score.measureBarType = ""
-  \global { \tempo 4=125 }
+  \global
   \clef bass
   %\unfoldRepeats
   \repeat volta 2 {
@@ -77,4 +101,3 @@ voice_bass =  {
   \layout {}
   \midi {}
 }
-
