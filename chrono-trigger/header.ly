@@ -6,7 +6,8 @@
 
 #(set-global-staff-size 35)
 \paper {
-  #(set-paper-size "a5" 'landscape)
+  %#(set-paper-size "a5" 'landscape)
+  #(set-paper-size "a5landscape")
 }
 
 global = {

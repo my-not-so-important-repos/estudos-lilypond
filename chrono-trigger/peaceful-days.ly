@@ -1,9 +1,21 @@
 \version "2.24.3"
 
-\include "header.ly"
-
 \header {
   subsubtitle = "Peaceful Days"
+  enteredby = "HeitorJr"
+  tagline = ##f
+}
+
+#(set-global-staff-size 35)
+\paper {
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
+}
+
+global = {
+  \easyHeadsOn
+  \key c \major
+  \time 4/4
 }
 
 right = \relative c'' {
@@ -18,7 +30,9 @@ left = \relative c' {
   \clef treble
   \chordmode {
     c2 f, bes, s |
-    s4 <g c' f'>2 <g b g'>2 
+    s4
+    <g c' f'>2
+    <g b g'>2 
   }
 }
 
