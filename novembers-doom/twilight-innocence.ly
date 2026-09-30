@@ -7,6 +7,11 @@ custom-tuning = \stringTuning <e a, d g b e'>
   composer = "Novembers Doom"
 }
 
+\paper {
+  %#(set-paper-size "a5" 'landscape)
+  #(set-paper-size "a5landscape")
+}
+
 #(set-global-staff-size 30)
 
 upper= {

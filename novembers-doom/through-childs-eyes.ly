@@ -3,7 +3,7 @@
 \include "string-tunings-init.ly"
 \language "english"
 
-custom-tuning = \stringTuning <c f, as d g c'>
+custom-tuning = \stringTuning <c f, as ds g c'>
 \header {
   title = "Through Childs Eyes"
   composer = "Novembers Doom"
@@ -18,7 +18,7 @@ upper= {
   \tempo 4=120
   %\key e \major
   \set Staff.midiInstrument = "acoustic guitar (nylon)"
-  
+  g
   as,
   < f a c'>
 
