@@ -6,18 +6,19 @@
 
 \header {
   title = "Lost Woods"
-  subtitle = "Zelda OoT"
-  composer = "Koji Kondo"
-  arranger = "Shinobu Amayake"
-  enteredby = "HeitorJr"
+  subtitle = "Zelda :: Ocarina of Time"
+  composer = "c: Koji Kondo"
+  %arranger = "Shinobu Amayake"
+  arranger = "a: HeitorJr"
   tagline = ##f
 }
 
 #(set-global-staff-size 24)
 
 \paper {
-  #(set-paper-size "a5" 'landscape)
+  %#(set-paper-size "a5" 'landscape)
   #(set-paper-size "a5landscape")
+  %#(set-paper-size "a5")
 }
 
 global = {

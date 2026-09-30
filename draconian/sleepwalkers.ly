@@ -11,8 +11,7 @@
 \header {
   
   title = "Sleepwalkers"
-  subtitle = "Draconian"
-  arranger = "apianothatplays + HAJ"
+  composer = "Draconian"
   enteredby = "HeitorJr"
 }
 
