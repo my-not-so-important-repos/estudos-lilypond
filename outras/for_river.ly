@@ -72,7 +72,7 @@ voice_bass =  {
   \super_cool_part
   \super_cool_part
   \super_cool_part
-  \bar "|."
+  % \bar "|."
 }
 
 \score{
