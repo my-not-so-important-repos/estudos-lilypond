@@ -1,1 +1,1 @@
-![twilight innocence](twilight-innocence.png)
+![twilight innocence](twilight-innocence-gothic-diary.png)
