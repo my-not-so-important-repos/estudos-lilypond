@@ -1,3 +1,5 @@
+![wind Scene](wind-scene-page1-estilizado.png)
+
 ![Boss Battle](boss.svg)
 
 ![Frog's Theme](frog-theme-1.svg)
