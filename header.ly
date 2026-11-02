@@ -14,7 +14,7 @@
 
 \paper {
   #(set-paper-size "a5landscape" )
-  ##(set-paper-size "a5" 'landscape )
+  % #(set-paper-size "a5" 'landscape )
 }
 
 global = {

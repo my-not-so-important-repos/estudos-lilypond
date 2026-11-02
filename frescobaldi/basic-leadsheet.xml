@@ -25,15 +25,18 @@
 
 \header {
   title = "Title"
-  composer = ""
+  subtitle = "subtitle"
+  composer = "composer"
+  arranger = "arranger"
   enteredby = "HeitorJr"
-  % tagline = ##f
-  tagline = "github.com/my-not-so-important-repos/estudos-lilypond"
+  tagline = ##f
+  % tagline = "github.com/my-not-so-important-repos/estudos-lilypond"
 }
 
 #(set-global-staff-size 35)
 
 \paper {
+  % kindle|kobo friendly
   #(set-paper-size "a5landscape" )
   %#(set-paper-size "a5" 'landscape )
 }
@@ -66,7 +69,7 @@ words = \lyricmode {
 \score {
   &lt;&lt;
     \new ChordNames \chordNames
-    \new FretBoards \chordNames
+    %\new FretBoards \chordNames
     \new Staff { \melody }
     \addlyrics { \words }
   &gt;&gt;
