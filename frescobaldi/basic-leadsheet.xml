@@ -1,0 +1,79 @@
+<snippets>
+
+<!--
+  Created by Frescobaldi 4.0.7.
+
+  Every snippet is represented by:
+    title:      title text
+    shortcuts:  list of shortcut elements, every shortcut is a key sequence
+    body:       the snippet text
+
+  The snippet id attribute can be the name of a builtin snippet or a random
+  name like 'n123456'. In the latter case, the title is used to determine
+  whether a snippet is new or updated.
+-->
+
+<snippet id="template_leadsheet">
+<title>Basic Leadsheet</title>
+<shortcuts />
+<body>-*- template; template-run;
+\version "$LILYPOND_VERSION"
+
+\layout {
+  indent = 0
+}
+
+\header {
+  title = "Title"
+  composer = ""
+  enteredby = "HeitorJr"
+  % tagline = ##f
+  tagline = "github.com/my-not-so-important-repos/estudos-lilypond"
+}
+
+#(set-global-staff-size 35)
+
+\paper {
+  #(set-paper-size "a5landscape" )
+  %#(set-paper-size "a5" 'landscape )
+}
+
+global = {
+  \time 4/4
+  \numericTimeSignature
+  \key c \major
+  \tempo 4=100
+  \easyHeadsOn
+}
+
+chordNames = \chordmode {
+  \global
+  c1
+
+}
+
+melody = \relative c'' {
+  \global
+  c4 d e f
+  $CURSOR
+}
+
+words = \lyricmode {
+  la la la
+
+}
+
+\score {
+  &lt;&lt;
+    \new ChordNames \chordNames
+    \new FretBoards \chordNames
+    \new Staff { \melody }
+    \addlyrics { \words }
+  &gt;&gt;
+  \layout { }
+  \midi { }
+}
+</body>
+</snippet>
+
+</snippets>

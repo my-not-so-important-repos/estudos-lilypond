@@ -1,5 +1,7 @@
 # estudos-lilypond
-Minhas partituras.
+
+Estou aprendendo a escrever partituras e vou utilizar este repositório para registrar meu progresso.
+
 
 
 ### Conservatório de música Ernesto Nazareth
@@ -13,6 +15,10 @@ Minhas partituras.
 - [preludio]
 - [Lavanda Azul]
 - [Thousand Years](thousand-years)
+
+### Coral - O Caminho do Amor
+
+- [Dona Nobis Pacem](coral-caminho-amor/dona-nobis-pacem.ly)
 
 
 ### Doom
@@ -28,6 +34,7 @@ Minhas partituras.
 ### Video Games
 
 - [Chrono Trigger](chrono-trigger)
+  - Wind Scene
   - Boss Battle
   - Frog's Theme
   - Premonition
