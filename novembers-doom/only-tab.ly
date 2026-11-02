@@ -23,7 +23,7 @@ global = {
 electricGuitar = {
   \global
   % Music follows here.
-
+  e, a, d g b e'
 }
 
 \score {
